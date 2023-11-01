@@ -1,0 +1,1001 @@
+Location,State,Country,Size,Bedrooms,Bathrooms,Age_of_Building,Amenities,Distance_to_Nearest_School,distance_to_nearest_Shopping,distance_to_nearest_Rail_Bus_Metro,Floor_Number,View,Renovated,Balcony_Area,Garage_Capacity,Property_Type,Price_$
+Porterville,Los_Angeles,US,3511,3,4,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,3,3,1,Lake,No,286,1,Villa,149819
+Vestavia Hills,Chicago,US,3019,3,3,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,1,4,1,Ocean,No,107,2,Apartment,333043
+Toledo,New_York,US,3808,5,5,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,0,1,3,Lake,Yes,381,2,House,271528
+Carlsbad,Denver,US,2174,4,3,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,0,2,1,City,No,256,3,Villa,220292
+Independence,Chicago,US,1691,2,4,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,5,4,1,Ocean,Yes,205,3,Villa,434823
+Sun City Center,New_York,US,3981,2,3,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,2,3,3,Sea,No,205,3,Villa,153022
+Taunton,New_York,US,2046,3,3,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,2,3,2,City,Yes,272,0,Villa,400512
+Indio,Los_Angeles,US,3651,5,3,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,3,1,1,Sea,Yes,114,1,Apartment,483243
+Coralville,Chicago,US,2009,1,4,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,2,2,1,Sea,No,319,3,Villa,175994
+Gainesville,New_York,US,2605,4,3,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,2,5,1,Sea,No,174,1,House,189406
+Huntley,Chicago,US,1232,2,3,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,3,1,Ocean,Yes,493,1,Apartment,207032
+Fort Washington,New_York,US,2517,5,2,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,0,3,3,Lake,Yes,221,1,House,140464
+Visitacion Valley,Los_Angeles,US,2201,5,4,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,2,4,2,Lake,No,274,0,Apartment,407542
+Port Huron,Detroit,US,2192,1,4,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,2,4,3,Country,No,336,2,House,228937
+Front Royal,New_York,US,1630,1,3,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,1,2,3,Ocean,No,273,3,Apartment,351187
+Middletown,New_York,US,3818,1,1,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,3,2,3,City,Yes,394,3,Villa,80304
+Tupelo,Chicago,US,2450,2,2,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,5,5,2,Lake,No,360,2,Apartment,428103
+Brentwood Estates,Chicago,US,1609,2,2,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,3,1,1,City,Yes,410,0,House,162101
+Columbia Heights,Chicago,US,1709,5,1,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,1,3,3,Country,No,499,2,House,477616
+Jackson,Chicago,US,1144,1,3,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,3,2,3,Sea,No,367,0,Villa,305372
+Boston,New_York,US,2285,1,4,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,2,3,1,Lake,No,285,1,Apartment,375049
+Gainesville,New_York,US,3673,5,2,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,3,4,3,Country,No,390,3,House,130940
+Bourbonnais,Chicago,US,1492,4,5,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,5,3,1,Ocean,No,321,0,Apartment,136715
+Brighton Beach,New_York,US,3415,2,2,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,2,3,3,Lake,No,309,3,House,52732
+Peabody,New_York,US,1557,1,3,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,3,4,2,Ocean,Yes,210,2,House,435442
+Greenville,Chicago,US,3032,2,3,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,2,4,1,City,Yes,412,0,House,467502
+Middle River,New_York,US,3896,2,3,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,3,3,2,Sea,Yes,358,0,Apartment,301584
+Laguna Niguel,Los_Angeles,US,1366,5,3,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,2,1,3,City,Yes,486,3,Apartment,114346
+Watsonville,Los_Angeles,US,2847,1,5,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,4,1,2,Ocean,Yes,353,1,House,255185
+Abilene,Chicago,US,3030,2,1,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,1,4,2,Sea,Yes,401,2,Apartment,310762
+Dumont,New_York,US,3970,5,2,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,0,2,2,Ocean,Yes,323,0,Apartment,257484
+Lutz,New_York,US,3413,2,5,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,3,1,3,Ocean,No,129,0,Apartment,405097
+Brentwood Estates,Chicago,US,3295,2,5,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,4,2,1,Sea,No,154,1,House,118738
+Kaukauna,Chicago,US,3331,4,1,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,0,3,1,Country,No,207,3,Apartment,127942
+Riverbank,Los_Angeles,US,3038,1,1,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,2,3,2,Lake,Yes,177,0,House,64198
+Bridgeport,New_York,US,1355,1,2,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,4,4,2,Country,Yes,249,1,Apartment,185743
+Lutz,New_York,US,1511,2,5,3,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,3,0,3,Sea,Yes,271,1,House,473999
+Estelle,Chicago,US,2016,1,3,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,1,4,1,Ocean,No,223,3,Villa,81551
+Scarsdale,New_York,US,3250,3,3,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,4,3,3,Ocean,No,148,1,Villa,160442
+Bon Air,New_York,US,1557,2,2,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,3,3,3,Sea,No,209,1,Villa,473548
+Harrisburg,New_York,US,3267,3,4,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,2,4,1,Country,Yes,310,2,Villa,387261
+Boston,New_York,US,2664,2,2,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,1,2,1,Country,No,435,3,House,254338
+Brenham,Chicago,US,3265,3,3,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,4,1,3,Country,Yes,233,1,Villa,203414
+Coralville,Chicago,US,3729,3,4,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,2,2,3,Ocean,Yes,141,1,Villa,275290
+Bourbonnais,Chicago,US,2913,4,2,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,3,3,1,Country,Yes,447,0,Villa,127911
+Glendale,Los_Angeles,US,2685,2,3,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,3,1,3,Country,Yes,451,2,Apartment,440318
+San Juan,Chicago,US,1634,4,3,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,3,1,1,Lake,No,229,2,Villa,356518
+Saratoga Springs,Denver,US,3397,1,2,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,2,5,3,Ocean,No,483,3,Apartment,125659
+Jersey City,New_York,US,3721,5,5,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,4,5,1,Country,No,266,3,Villa,56004
+Taunton,New_York,US,3666,1,5,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,1,2,3,Lake,No,499,1,Apartment,144963
+Sunnyside,Los_Angeles,US,3693,3,2,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,3,2,2,Sea,No,465,3,Apartment,200298
+Iron River,Menominee,US,2916,3,1,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,4,2,1,Lake,No,196,0,House,312234
+Grand Forks,Chicago,US,3223,1,5,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,4,2,1,Sea,No,372,3,Apartment,187456
+Independence,Chicago,US,2879,3,3,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,3,0,1,Ocean,No,498,1,Apartment,274778
+Hutto,Chicago,US,2342,2,3,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,4,0,3,Lake,No,473,3,Villa,136410
+Rosemount,Chicago,US,3128,4,2,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,1,4,1,Ocean,Yes,263,0,Apartment,94851
+Sicklerville,New_York,US,1197,5,2,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,1,0,3,Ocean,No,172,2,Apartment,341774
+Belle Glade,New_York,US,2977,1,5,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,0,2,2,Ocean,No,480,1,House,76319
+Bothell,Los_Angeles,US,3745,1,5,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,3,1,3,Lake,No,177,3,Villa,89689
+Beaumont,Los_Angeles,US,2116,3,2,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,2,2,2,Sea,No,417,3,Apartment,126003
+Malden,New_York,US,3594,1,2,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,4,3,Country,Yes,129,0,Villa,249889
+New Canaan,New_York,US,1181,3,3,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,2,1,2,Ocean,No,291,2,Villa,268623
+Belle Glade,New_York,US,1496,1,1,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,3,2,2,Lake,No,432,2,Villa,400306
+Venice,New_York,US,2654,2,4,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,2,4,1,Lake,No,302,3,Villa,376626
+Glendale,Los_Angeles,US,2815,1,5,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,5,3,2,Lake,Yes,183,1,Villa,271174
+Visitacion Valley,Los_Angeles,US,3835,5,2,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,5,1,2,Country,No,313,2,Villa,452429
+Acworth,New_York,US,1291,1,3,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,2,5,1,Country,Yes,342,0,House,493059
+Middle River,New_York,US,2169,4,5,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,3,1,1,City,No,247,2,House,60213
+Fort Washington,New_York,US,1969,2,1,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,5,5,1,City,No,446,2,Villa,378982
+East Haven,New_York,US,3410,3,5,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,0,1,3,Ocean,No,437,0,House,106526
+Fort Washington,New_York,US,3835,2,4,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,4,4,2,Sea,Yes,190,1,Apartment,116026
+Pleasant Prairie,Chicago,US,1953,4,5,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,4,4,1,Sea,No,280,3,House,191888
+North Lauderdale,New_York,US,2496,2,3,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,3,5,1,Sea,Yes,253,0,Villa,277312
+Shreveport,Chicago,US,2988,4,2,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,4,5,2,Sea,Yes,239,3,House,273576
+South Lawndale,Chicago,US,3519,2,1,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,0,4,3,Country,Yes,274,0,Apartment,428895
+San Juan,Chicago,US,3943,1,2,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,5,4,2,Lake,Yes,210,2,Apartment,408847
+Yonkers,New_York,US,3739,2,3,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,2,3,2,Lake,Yes,308,3,Villa,390882
+Evergreen Park,Chicago,US,1680,1,1,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,1,3,1,Sea,Yes,317,2,Villa,74644
+Rutland,New_York,US,3894,2,3,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,5,3,2,Lake,Yes,500,1,Villa,277319
+Beaumont,Los_Angeles,US,3463,3,4,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,5,4,3,Ocean,Yes,175,1,Villa,214213
+Malden,New_York,US,2966,5,4,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,2,2,3,Lake,No,391,0,House,249863
+Port Huron,Detroit,US,2123,5,5,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,4,5,1,Sea,No,484,1,Villa,198960
+Cypress Hills,New_York,US,2725,5,2,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,1,1,1,Country,No,465,3,House,466344
+Independence,Chicago,US,1895,5,3,3,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,4,4,3,Ocean,No,383,1,Apartment,466063
+Bryn Mawr-Skyway,Los_Angeles,US,3682,5,2,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,2,3,2,Ocean,No,166,1,Villa,122413
+Toledo,New_York,US,3777,4,5,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,3,0,2,City,Yes,403,1,Apartment,293228
+Troutdale,Los_Angeles,US,3939,4,5,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,2,0,3,Country,Yes,491,3,House,236683
+Sun City Center,New_York,US,3674,1,2,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,5,3,3,Sea,No,309,1,Villa,177267
+Redding,Los_Angeles,US,3041,3,1,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,4,1,2,Ocean,No,286,2,Villa,250690
+Newburgh,New_York,US,1793,1,5,3,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,2,2,3,Lake,Yes,214,0,Apartment,144220
+Stockbridge,New_York,US,2706,3,2,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,3,1,1,Sea,No,123,3,Villa,266506
+Davis,Los_Angeles,US,2873,1,3,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,3,1,3,Ocean,No,320,3,Villa,370057
+Palm Valley,New_York,US,1243,3,2,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,1,3,2,Sea,Yes,245,2,Villa,179621
+Dumont,New_York,US,2132,3,3,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,2,4,1,City,No,131,1,House,182355
+Encinitas,Los_Angeles,US,1918,5,1,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,5,1,3,Lake,No,264,1,Villa,322785
+Porterville,Los_Angeles,US,3457,2,2,16,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,2,2,1,Lake,No,182,1,Villa,491214
+Bon Air,New_York,US,1088,3,1,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,1,1,3,City,No,295,2,Apartment,186667
+Collinwood,New_York,US,1938,2,1,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,5,3,3,City,Yes,350,0,Villa,424223
+Granger,Indiana,US,1924,2,5,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,5,3,1,Sea,No,150,1,Villa,269184
+Fitchburg,New_York,US,1879,2,3,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,3,1,1,Ocean,Yes,402,1,Villa,428401
+Ada,Chicago,US,2301,5,1,16,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,3,0,2,Sea,Yes,280,2,Apartment,331701
+Westchester,Chicago,US,2437,4,2,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,4,5,3,Lake,Yes,120,0,House,467837
+Kearns,Denver,US,2963,5,1,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,1,3,3,Country,Yes,109,1,Apartment,344990
+Far Rockaway,New_York,US,1588,5,4,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,1,2,3,Sea,Yes,453,0,Apartment,368879
+Port Huron,Detroit,US,1365,3,5,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,2,1,2,Ocean,No,418,3,House,373735
+Thomasville,New_York,US,1730,4,5,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,3,5,3,Lake,Yes,318,1,Apartment,117488
+Pahrump,Los_Angeles,US,1382,4,2,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,4,3,Lake,Yes,149,1,Villa,488756
+Porterville,Los_Angeles,US,2473,4,1,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,0,3,3,City,Yes,145,1,Villa,160882
+Yonkers,New_York,US,1474,3,5,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,5,5,2,City,Yes,252,0,Villa,366478
+Greenville,Chicago,US,1270,2,3,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,4,1,3,City,Yes,136,2,Apartment,422200
+Camarillo,Los_Angeles,US,2937,5,3,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,3,3,3,Lake,No,316,0,House,425259
+Lutz,New_York,US,1543,4,2,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",0,3,3,3,Ocean,No,172,2,House,473550
+Fayetteville,New_York,US,2652,3,5,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,3,4,3,Sea,Yes,360,0,House,300753
+Hutto,Chicago,US,2448,2,1,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,2,0,1,Country,No,385,0,House,334226
+Rutland,New_York,US,2821,1,5,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,5,1,3,Country,No,175,3,Villa,180186
+Gainesville,New_York,US,3706,2,5,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,0,1,1,City,No,186,0,House,143010
+Bothell,Los_Angeles,US,2483,4,3,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,5,3,2,Country,Yes,491,3,Apartment,266660
+West Chester,New_York,US,2189,3,4,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,3,3,1,Sea,Yes,267,2,Apartment,148897
+West Des Moines,Chicago,US,2168,1,4,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,4,4,3,Lake,Yes,222,1,Villa,77789
+Gainesville,New_York,US,3830,1,3,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,5,0,2,Country,No,195,1,Apartment,170018
+Harrisburg,New_York,US,2930,3,2,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,1,2,2,Country,Yes,421,2,Apartment,145057
+South Lawndale,Chicago,US,1930,5,2,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,0,0,3,Lake,No,448,1,House,408068
+Nutley,New_York,US,2049,1,5,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,2,4,2,Sea,Yes,457,1,Apartment,410833
+Hueytown,Chicago,US,2301,1,2,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,4,5,3,Lake,Yes,175,2,Apartment,312703
+Crystal Lake,Chicago,US,1256,4,1,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,2,3,1,Country,Yes,447,1,Apartment,134605
+Watsonville,Los_Angeles,US,1231,5,4,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,3,3,3,Ocean,Yes,378,2,Villa,93562
+Tyler,Chicago,US,1472,3,3,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,3,1,3,Ocean,Yes,112,3,Apartment,473056
+Westchester,Chicago,US,3914,3,5,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,3,3,City,No,260,0,House,471883
+North Lauderdale,New_York,US,1102,1,2,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,4,5,3,Lake,Yes,334,3,House,265215
+Punta Gorda Isles,New_York,US,3419,4,3,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,0,1,1,City,Yes,429,0,Villa,238863
+Copperas Cove,Chicago,US,2058,1,3,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,2,3,1,City,Yes,287,0,Apartment,248158
+South Lawndale,Chicago,US,1572,4,4,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,4,1,2,Country,No,438,3,House,310550
+Palm Desert,Los_Angeles,US,3403,2,3,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,0,1,3,Sea,No,258,1,Villa,468528
+Lino Lakes,Chicago,US,2108,3,3,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,1,5,3,Country,No,224,0,Apartment,426904
+Glendale,Los_Angeles,US,2404,2,5,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,2,0,3,Ocean,Yes,285,1,Villa,290227
+Santa Maria,Los_Angeles,US,2180,2,3,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,4,2,1,Country,No,446,3,Villa,414574
+Coralville,Chicago,US,2004,3,3,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,1,3,2,City,No,141,1,Apartment,189992
+Lutz,New_York,US,3549,1,4,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,3,4,1,Ocean,Yes,125,1,Apartment,242738
+Shreveport,Chicago,US,1041,3,3,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,5,0,3,City,No,158,2,Apartment,445544
+Palm Valley,New_York,US,3714,3,1,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,3,5,3,Sea,Yes,230,3,House,307638
+Pleasant Prairie,Chicago,US,3226,1,3,16,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,3,3,Sea,No,430,1,House,309683
+Greenpoint,New_York,US,2677,2,4,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,3,5,2,Lake,No,475,1,Apartment,283177
+Nampa,Boise,US,2916,4,5,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,4,1,3,Lake,Yes,203,2,Villa,337646
+Watsonville,Los_Angeles,US,1508,5,1,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,1,0,3,Country,No,418,2,House,389055
+Dublin,New_York,US,1767,1,3,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,4,5,2,Lake,No,176,1,Villa,170546
+Palm Desert,Los_Angeles,US,3370,5,5,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,4,3,2,City,No,269,3,House,297736
+Norwalk,New_York,US,1643,4,1,3,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,3,3,2,City,Yes,229,3,House,158865
+Evergreen Park,Chicago,US,2853,5,1,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,1,2,1,City,No,323,0,Villa,81876
+Lexington,New_York,US,1749,4,5,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,3,4,1,Sea,Yes,311,2,Villa,330869
+Lutz,New_York,US,3356,4,2,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,1,1,1,Sea,Yes,101,1,Villa,373644
+Evergreen Park,Chicago,US,1405,2,1,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,3,3,2,Lake,Yes,176,3,Apartment,439245
+Kensington,New_York,US,2091,2,1,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,3,1,2,Country,No,445,2,Villa,440804
+Brunswick,New_York,US,2994,5,3,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,5,4,1,City,No,479,3,Apartment,176371
+Fresno,Chicago,US,3232,5,1,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,2,2,1,Sea,Yes,376,0,Apartment,150929
+Middle River,New_York,US,2026,1,3,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,0,2,3,City,No,143,0,Apartment,224251
+Pottstown,New_York,US,3927,3,2,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,0,3,2,City,Yes,406,3,Villa,450168
+Rutland,New_York,US,3316,2,1,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,3,2,2,Lake,Yes,217,3,Apartment,168712
+Sun City Center,New_York,US,1816,5,1,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,1,4,3,Lake,No,238,0,Villa,240665
+Rutland,New_York,US,2859,4,1,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,4,2,1,City,No,311,1,Apartment,429788
+American Canyon,Los_Angeles,US,1380,5,4,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,3,3,2,Country,Yes,116,1,Villa,443057
+New Canaan,New_York,US,1208,3,1,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,1,3,1,Sea,No,176,1,Apartment,238022
+Kearns,Denver,US,3279,4,1,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,2,1,City,Yes,486,2,House,105148
+Martinsburg,New_York,US,3303,1,4,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,4,2,1,Lake,No,304,3,Apartment,346446
+North Tustin,Los_Angeles,US,2172,2,3,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,0,4,1,Lake,Yes,359,1,Apartment,365268
+Dublin,New_York,US,1168,1,4,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,4,5,1,Sea,Yes,143,0,Villa,270386
+Carlsbad,Denver,US,3094,5,3,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,4,3,1,Sea,No,175,0,Apartment,363974
+Kendall,New_York,US,1925,4,3,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,4,1,2,Sea,No,181,0,House,280992
+Searcy,Chicago,US,1358,2,4,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,1,1,3,Sea,No,370,0,Apartment,71152
+South Whittier,Los_Angeles,US,1940,5,4,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,2,2,1,Country,Yes,462,1,House,59034
+Troutdale,Los_Angeles,US,2631,4,4,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,2,4,1,Ocean,No,476,0,House,236201
+Gilbert,Phoenix,US,1001,5,1,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,5,1,2,Sea,No,389,0,House,274495
+Palm Desert,Los_Angeles,US,1230,5,4,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,3,0,3,Lake,No,265,2,Villa,153554
+Tupelo,Chicago,US,3196,5,4,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,1,4,2,City,No,428,3,House,442113
+Bridgeport,New_York,US,1761,5,3,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,5,4,3,City,No,219,1,House,277654
+Palm Valley,New_York,US,1030,1,1,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,1,4,1,City,No,157,3,Villa,190337
+Chillum,New_York,US,2696,1,1,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,4,5,3,Ocean,No,417,3,House,295642
+Lutz,New_York,US,3172,1,2,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,4,4,2,Ocean,Yes,178,2,Apartment,485220
+Kahului,Honolulu,US,1463,2,2,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,2,1,Ocean,No,414,0,Apartment,261829
+Pekin,Chicago,US,3767,4,1,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,3,4,1,Sea,No,111,0,House,338555
+Carlsbad,Denver,US,2381,3,4,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,0,3,3,City,No,263,3,House,467594
+Bourbonnais,Chicago,US,3905,4,2,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,3,3,3,Lake,No,204,0,Apartment,122049
+Aloha,Los_Angeles,US,1224,4,2,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,2,1,2,City,No,246,0,Apartment,301474
+Bridgeport,New_York,US,2224,4,5,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,1,3,3,Ocean,Yes,404,1,House,192452
+Kahului,Honolulu,US,2101,2,5,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",0,1,0,1,City,Yes,384,2,Villa,199423
+Dumont,New_York,US,1249,3,2,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,4,0,3,Ocean,No,459,0,House,367655
+Bothell,Los_Angeles,US,3009,3,3,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,4,2,2,Sea,Yes,388,0,Apartment,383076
+Malden,New_York,US,3053,3,4,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,3,3,3,Sea,Yes,119,3,Villa,293326
+Watsonville,Los_Angeles,US,1935,3,4,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,2,1,3,Country,No,180,0,Villa,417874
+Bothell West,Los_Angeles,US,1432,4,4,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,1,3,Sea,No,314,3,Apartment,128440
+Vestavia Hills,Chicago,US,1004,4,5,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,4,1,1,Country,No,216,0,Apartment,379744
+Camarillo,Los_Angeles,US,3400,5,4,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,2,3,3,Lake,Yes,114,0,Apartment,293266
+Kendall,New_York,US,2200,1,1,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,3,5,3,Country,No,311,1,House,408875
+Newburgh,New_York,US,1225,5,2,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,1,3,1,Sea,No,498,3,Villa,90673
+Port Richmond,New_York,US,1685,1,2,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,1,4,2,Lake,No,254,3,House,349094
+Sun City Center,New_York,US,1170,3,1,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,1,1,2,Country,No,209,2,Villa,317363
+American Canyon,Los_Angeles,US,2500,1,1,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,3,1,1,Country,Yes,143,2,House,353592
+Camarillo,Los_Angeles,US,1793,1,4,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,3,2,2,Lake,Yes,427,2,House,240426
+South Whittier,Los_Angeles,US,3585,5,2,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",0,3,2,1,City,No,316,0,House,489067
+South Whittier,Los_Angeles,US,3776,2,2,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,1,4,3,Sea,No,398,3,Villa,344746
+Mechanicsville,New_York,US,2150,1,3,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,2,5,1,City,No,411,1,House,73926
+Ken Caryl,Denver,US,1626,4,3,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,3,4,3,Lake,No,175,3,Villa,127357
+Davis,Los_Angeles,US,1294,4,1,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,4,4,3,City,Yes,488,3,Villa,345515
+Taunton,New_York,US,1563,3,1,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,5,4,1,Country,Yes,360,0,Villa,458455
+Searcy,Chicago,US,1768,2,2,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,3,3,1,Lake,No,365,1,House,437523
+Malden,New_York,US,2192,3,4,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,1,2,1,Ocean,Yes,234,0,Villa,325712
+Martinsburg,New_York,US,3348,2,5,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,1,1,2,Lake,Yes,304,1,House,218175
+Norwalk,New_York,US,1162,5,4,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,3,2,2,City,Yes,129,1,House,368169
+Bothell West,Los_Angeles,US,1438,3,5,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,5,2,2,Country,Yes,375,1,House,63421
+Copperas Cove,Chicago,US,1112,1,2,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,4,1,3,Ocean,Yes,272,0,House,233027
+Ken Caryl,Denver,US,2071,3,4,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,1,1,2,Lake,Yes,156,2,Apartment,84764
+Sunnyside,Los_Angeles,US,2228,4,2,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,0,5,1,Sea,Yes,401,3,Apartment,250700
+Venice,New_York,US,1204,2,4,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,3,1,2,City,Yes,254,1,House,140585
+Aurora,Denver,US,1908,2,5,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,4,3,1,Country,No,106,3,Apartment,203383
+Rosemount,Chicago,US,2632,3,5,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,4,5,3,Sea,No,435,0,House,404872
+Taunton,New_York,US,1739,5,4,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,4,3,1,Ocean,No,281,2,Apartment,207266
+Searcy,Chicago,US,1540,3,4,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,3,3,2,Sea,No,263,3,House,369816
+Brenham,Chicago,US,1785,5,2,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,1,1,1,Lake,No,404,2,Villa,404008
+Rosedale,New_York,US,1602,3,4,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,3,4,2,Sea,Yes,279,2,Villa,74977
+Shreveport,Chicago,US,3820,4,2,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",0,3,1,2,City,Yes,297,0,House,123786
+Lower West Side,Chicago,US,1241,3,2,3,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,1,1,3,Ocean,Yes,177,2,Apartment,252184
+Rolla,Chicago,US,3810,5,2,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,5,1,3,Lake,Yes,390,0,Apartment,304949
+Malden,New_York,US,3935,2,4,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,1,1,3,Lake,No,324,0,Villa,205628
+Dublin,New_York,US,3990,3,2,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,0,5,2,Sea,Yes,408,1,Apartment,212411
+Canton,Detroit,US,1807,2,4,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,4,2,1,Sea,No,381,1,Apartment,219764
+Far Rockaway,New_York,US,3923,2,2,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,2,5,3,Lake,Yes,188,1,House,420151
+Palestine,Chicago,US,3749,1,2,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,0,5,2,Ocean,No,383,2,House,146771
+Carlsbad,Denver,US,1443,1,3,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,0,0,2,Country,No,220,1,Apartment,442315
+Scotch Plains,New_York,US,3782,5,5,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,1,2,2,City,Yes,166,3,House,466561
+Kahului,Honolulu,US,1312,2,2,16,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,3,1,1,City,Yes,131,2,Apartment,384691
+Sun City Center,New_York,US,2899,2,1,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,3,2,3,Country,No,289,1,Apartment,219883
+Kearns,Denver,US,1424,1,2,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,2,5,2,City,No,205,1,Villa,102626
+Vestavia Hills,Chicago,US,3660,4,3,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,1,3,2,City,No,103,1,Apartment,407196
+Acworth,New_York,US,1281,4,4,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,0,1,1,Sea,Yes,143,2,Villa,341503
+South Lawndale,Chicago,US,2928,1,3,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,0,0,1,City,No,399,0,House,391306
+American Canyon,Los_Angeles,US,1823,5,1,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,2,2,1,Sea,Yes,242,0,Villa,159912
+Dublin,New_York,US,1765,3,5,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,2,2,2,Sea,No,169,3,Villa,379353
+Sunnyside,Los_Angeles,US,2262,2,3,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,2,4,3,Ocean,Yes,232,0,Villa,367991
+Sterling,New_York,US,3716,5,3,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,4,4,1,Ocean,No,437,3,Apartment,323970
+Stockbridge,New_York,US,3159,3,5,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,1,4,2,Country,No,207,3,Villa,496532
+Yonkers,New_York,US,3324,2,1,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,3,4,1,Ocean,Yes,183,3,Apartment,416857
+Scarsdale,New_York,US,3187,5,5,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,3,3,3,Lake,No,456,2,House,73174
+Odessa,Chicago,US,3670,4,4,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,2,4,1,Sea,No,414,2,House,438546
+Camarillo,Los_Angeles,US,1024,5,2,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,4,0,1,Lake,Yes,338,0,House,101395
+Hutto,Chicago,US,3930,4,2,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,1,1,Lake,Yes,109,3,House,394532
+Port Richmond,New_York,US,3580,3,5,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,2,3,1,City,Yes,329,1,House,381470
+Redding,Los_Angeles,US,2248,2,1,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,1,1,Country,No,499,1,Apartment,340220
+Evergreen Park,Chicago,US,2626,3,4,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,2,5,2,Sea,Yes,431,0,Apartment,298073
+Canton,Detroit,US,1227,2,1,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,5,4,1,City,Yes,488,0,Villa,257989
+Lutz,New_York,US,3153,5,2,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,0,3,2,City,Yes,254,1,House,211811
+Middletown,New_York,US,2770,3,1,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,1,4,2,Ocean,Yes,176,3,House,158471
+Palm Valley,New_York,US,3170,2,4,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,3,4,1,Country,No,156,1,Apartment,454681
+Keizer,Los_Angeles,US,3836,1,4,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,4,1,2,Ocean,Yes,157,3,Apartment,319278
+Glendale,Los_Angeles,US,3410,3,5,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",0,4,1,2,Lake,No,393,1,House,166827
+Woodbridge,New_York,US,3258,5,3,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,3,1,3,Country,Yes,292,1,Apartment,260765
+Dumont,New_York,US,3613,5,2,16,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,4,1,1,Sea,No,102,3,Villa,107371
+Fayetteville,New_York,US,1115,5,3,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,4,5,1,City,Yes,304,3,Villa,203594
+Visitacion Valley,Los_Angeles,US,3566,3,2,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,4,2,City,Yes,171,1,Apartment,201537
+Copperas Cove,Chicago,US,2676,5,1,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,4,3,3,Sea,No,104,3,Villa,61480
+Lexington,New_York,US,1086,3,5,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,3,3,3,City,Yes,141,0,House,312817
+Malden,New_York,US,2752,2,5,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,1,2,3,Ocean,Yes,106,3,Apartment,296094
+Claremont,Los_Angeles,US,2591,1,2,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,5,4,2,Country,Yes,296,2,Apartment,401236
+Newburgh,New_York,US,1023,1,1,16,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,2,1,2,City,No,278,0,Apartment,436931
+Taunton,New_York,US,2890,1,1,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,0,5,3,Lake,No,285,3,Apartment,446107
+Schererville,Chicago,US,3165,1,1,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,3,2,3,Sea,No,174,2,Villa,56407
+Canton,Detroit,US,1526,5,1,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,3,4,1,Ocean,No,138,1,Apartment,244331
+Norwalk,New_York,US,3036,4,3,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,3,1,1,Lake,Yes,236,2,Villa,139804
+Coralville,Chicago,US,2214,2,5,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,3,1,1,Ocean,Yes,464,1,Villa,397282
+Rosemount,Chicago,US,1181,4,3,3,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,1,5,3,Sea,No,117,3,Villa,323242
+Mira Mesa,Los_Angeles,US,3410,3,5,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,5,3,1,City,Yes,178,1,Apartment,59428
+New City,Chicago,US,3475,3,2,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,5,2,2,Country,Yes,309,2,Apartment,304233
+Nutley,New_York,US,2394,4,5,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,3,4,3,Lake,Yes,214,2,Villa,374603
+Troutdale,Los_Angeles,US,1981,2,1,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,2,2,3,Country,Yes,495,1,Apartment,104275
+Odessa,Chicago,US,3230,3,3,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,4,2,2,Sea,No,290,3,House,141747
+Middle River,New_York,US,2052,1,3,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,3,3,3,Country,No,343,3,Villa,433659
+Keene,New_York,US,3816,2,5,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,3,3,1,Ocean,No,253,2,Villa,105143
+Woodbridge,New_York,US,2652,4,3,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,4,4,1,Sea,Yes,465,0,Villa,327436
+Harrisburg,New_York,US,1068,4,5,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,0,1,2,City,Yes,179,3,Apartment,398276
+Sun City Center,New_York,US,1490,3,2,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,1,3,3,Ocean,Yes,480,0,Apartment,397250
+Collinwood,New_York,US,1430,4,1,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,4,1,3,Ocean,No,159,3,Villa,169029
+Rosemount,Chicago,US,1492,5,4,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",0,1,5,3,Country,No,211,3,Villa,312288
+Brunswick,New_York,US,1285,2,4,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,3,3,1,City,No,467,2,Villa,261668
+Yonkers,New_York,US,2513,5,2,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,2,0,3,Sea,Yes,474,0,House,496331
+Jersey City,New_York,US,2814,4,4,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,2,1,2,Ocean,Yes,394,0,Apartment,160917
+Malden,New_York,US,1864,5,2,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,2,4,2,City,Yes,448,1,Villa,292202
+Vestavia Hills,Chicago,US,2968,5,5,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,2,3,2,City,No,285,1,Villa,114457
+Fayetteville,New_York,US,3906,4,5,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,4,4,2,Lake,Yes,170,1,Apartment,203951
+Santa Maria,Los_Angeles,US,2339,4,5,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,3,4,1,Ocean,Yes,486,1,Apartment,302912
+Hueytown,Chicago,US,3956,1,2,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,4,5,2,Lake,Yes,472,0,Apartment,468795
+Taunton,New_York,US,1101,4,5,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,3,4,2,Lake,Yes,348,0,House,159440
+Beaumont,Los_Angeles,US,2989,4,4,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,1,1,3,Country,No,151,1,House,220574
+Pottstown,New_York,US,3721,5,5,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,3,1,2,Ocean,No,310,3,Apartment,433124
+Kendall,New_York,US,3109,5,1,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,2,5,2,Sea,Yes,500,0,House,149437
+Kahului,Honolulu,US,2385,1,1,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",0,0,2,3,City,No,239,3,Villa,372908
+Canton,Detroit,US,2299,2,5,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,0,4,3,City,No,406,0,Apartment,273993
+Abilene,Chicago,US,2682,3,1,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,3,4,3,Country,No,173,0,Villa,295486
+Chillum,New_York,US,3052,3,1,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,2,0,3,Lake,Yes,234,2,House,220468
+Redding,Los_Angeles,US,3206,3,5,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,3,5,1,Sea,Yes,188,1,House,442355
+Port Richmond,New_York,US,3838,2,2,16,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,3,2,2,Country,Yes,156,2,Villa,435657
+Bourbonnais,Chicago,US,1290,3,5,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,3,3,City,Yes,164,1,Apartment,495688
+Dublin,New_York,US,2422,1,2,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,1,1,3,Country,No,469,3,Apartment,115070
+Peabody,New_York,US,1182,4,5,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,1,2,1,Sea,Yes,438,3,Villa,110712
+Hueytown,Chicago,US,2350,1,3,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,3,5,2,Country,Yes,152,1,Apartment,446530
+Martinsburg,New_York,US,2685,1,5,3,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,1,3,2,Lake,No,326,1,House,235366
+Palm Desert,Los_Angeles,US,1618,5,4,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,4,5,1,Ocean,No,362,2,Apartment,99141
+North Tustin,Los_Angeles,US,2266,3,3,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,4,3,2,Ocean,No,426,1,Villa,496632
+Fayetteville,New_York,US,1792,3,5,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,1,1,1,Lake,No,233,1,Apartment,297728
+Bourbonnais,Chicago,US,3517,5,2,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,1,4,2,City,Yes,262,2,Apartment,285717
+Brentwood Estates,Chicago,US,1969,5,1,3,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,0,2,3,City,No,470,0,House,129171
+Malden,New_York,US,1451,1,5,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,1,0,3,Sea,No,233,1,Apartment,478967
+Bon Air,New_York,US,1527,2,3,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,2,4,1,City,Yes,464,1,Villa,123235
+Woodlawn,New_York,US,1699,1,3,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,3,5,3,Country,No,498,2,House,449258
+Fitchburg,New_York,US,1845,2,2,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,1,3,1,Ocean,No,331,0,House,357555
+South Lawndale,Chicago,US,1198,3,2,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,1,4,3,City,Yes,396,3,Villa,310711
+Gilbert,Phoenix,US,3842,4,3,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,4,3,3,Country,Yes,489,1,Villa,83361
+Nutley,New_York,US,2727,2,1,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,3,1,1,Lake,No,367,2,House,106849
+Sicklerville,New_York,US,2606,2,4,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,4,2,1,Country,No,285,2,House,421491
+Kendall,New_York,US,1842,5,5,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,1,5,1,Country,No,137,1,House,310972
+Muskogee,Chicago,US,3076,3,3,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,1,2,2,Ocean,No,476,3,Villa,438290
+Pleasant Prairie,Chicago,US,3571,4,5,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,4,1,1,Lake,Yes,318,0,Apartment,113477
+Tyler,Chicago,US,1900,5,5,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,1,2,3,Ocean,Yes,240,3,Villa,259367
+Searcy,Chicago,US,3136,5,1,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,3,1,2,Country,Yes,266,1,House,123062
+Keene,New_York,US,3645,5,3,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,2,4,3,Lake,No,333,0,Villa,135990
+Odessa,Chicago,US,2446,4,1,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,1,4,2,City,Yes,234,3,House,159413
+Dublin,New_York,US,1615,5,2,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,5,2,2,Country,Yes,336,1,Villa,232415
+Collinwood,New_York,US,3787,1,3,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,1,4,2,Ocean,No,140,0,Apartment,234296
+Toledo,New_York,US,3717,2,5,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",0,3,5,3,Sea,No,306,2,House,409829
+Camarillo,Los_Angeles,US,3112,3,2,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,4,1,1,City,No,220,3,House,213467
+Fayetteville,New_York,US,3023,2,3,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,1,4,1,Country,No,158,2,Villa,100137
+Opportunity,Los_Angeles,US,2432,1,3,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,3,3,1,Ocean,Yes,119,1,House,480726
+West Chester,New_York,US,2952,1,4,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,5,4,2,Country,No,217,0,Apartment,309182
+Ada,Chicago,US,3231,2,5,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,4,5,2,Ocean,No,350,1,House,328103
+Fort Washington,New_York,US,3747,2,5,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,3,2,2,Sea,Yes,106,2,Villa,123681
+Gainesville,New_York,US,3725,3,3,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,1,2,1,Ocean,No,419,0,House,268463
+Milledgeville,New_York,US,1601,5,2,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,5,1,1,Ocean,No,141,2,Villa,457333
+Santa Maria,Los_Angeles,US,3268,4,1,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,1,3,2,Lake,Yes,414,2,Villa,109670
+Mechanicsville,New_York,US,3739,3,4,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,3,4,2,Country,No,200,1,Villa,54518
+Palm Desert,Los_Angeles,US,1033,3,1,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,3,4,3,Sea,No,363,3,Apartment,126333
+Lutz,New_York,US,1007,5,1,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,3,4,2,Lake,Yes,331,3,Apartment,109499
+Scottsdale,Phoenix,US,2470,4,2,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,4,0,3,City,Yes,115,2,House,423133
+Mira Mesa,Los_Angeles,US,2270,4,2,3,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,3,1,Ocean,Yes,121,2,Villa,479967
+Toledo,New_York,US,3385,5,3,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,3,1,1,Ocean,No,251,2,House,372873
+Tupelo,Chicago,US,2006,4,4,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,2,2,3,Ocean,No,170,1,Apartment,228996
+Scottsdale,Phoenix,US,1253,2,1,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,3,2,2,City,Yes,413,2,Apartment,218397
+Abilene,Chicago,US,2256,5,5,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,0,5,2,Country,No,384,0,Apartment,346715
+Nutley,New_York,US,3299,1,1,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,1,2,2,City,Yes,351,2,Apartment,481336
+Rolla,Chicago,US,3040,2,1,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,0,3,2,Sea,Yes,330,3,Villa,79879
+Camarillo,Los_Angeles,US,3255,1,1,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,4,5,1,Country,No,270,3,Villa,328059
+Brenham,Chicago,US,1886,1,1,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,1,5,2,Ocean,Yes,333,0,Villa,170170
+Copperas Cove,Chicago,US,3135,5,4,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,3,1,3,Country,Yes,278,0,Villa,390153
+San Juan,Chicago,US,1701,2,3,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,0,1,2,Sea,No,465,2,Villa,301632
+Vestavia Hills,Chicago,US,1696,4,1,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,4,4,2,Lake,No,191,0,House,133154
+Malden,New_York,US,2280,4,2,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,3,1,1,Ocean,Yes,466,0,Apartment,63708
+Claremont,Los_Angeles,US,1816,2,4,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,3,0,2,Lake,No,335,2,Apartment,311325
+Copperas Cove,Chicago,US,2306,5,4,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,3,2,2,Lake,Yes,208,1,Apartment,433058
+Columbia Heights,Chicago,US,3480,2,5,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,3,2,2,Country,No,147,3,Villa,304549
+Opportunity,Los_Angeles,US,2648,5,4,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,4,3,2,Lake,No,377,0,House,435842
+Carlsbad,Denver,US,2540,4,2,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,2,3,Ocean,Yes,265,0,Villa,82874
+Middletown,New_York,US,2728,1,2,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,4,5,2,Lake,Yes,303,1,Apartment,269106
+Morningside Heights,New_York,US,3199,1,4,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,2,1,3,Country,No,222,3,Villa,275540
+Mira Mesa,Los_Angeles,US,1788,4,3,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,3,3,3,City,No,227,0,Villa,114419
+Fitchburg,New_York,US,2270,3,3,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,2,2,3,Ocean,Yes,442,0,Apartment,314117
+Fresno,Chicago,US,1851,2,4,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,5,1,3,Lake,No,321,3,Apartment,408469
+Dublin,New_York,US,1395,1,3,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,5,0,1,Ocean,No,163,3,House,316059
+Granger,Indiana,US,2407,4,1,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,4,0,3,Lake,No,181,0,House,252467
+Clermont,New_York,US,1700,3,1,3,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,1,4,2,Country,Yes,193,2,Villa,443395
+Pahrump,Los_Angeles,US,2375,5,3,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,2,5,1,Country,No,195,3,Apartment,462698
+Kearns,Denver,US,3626,4,3,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,3,3,3,Ocean,No,261,3,Villa,374193
+Mira Mesa,Los_Angeles,US,1205,4,5,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,3,5,1,Country,Yes,163,3,Apartment,236001
+Palm Desert,Los_Angeles,US,3441,2,4,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,0,3,1,Ocean,No,262,0,Apartment,120768
+Bon Air,New_York,US,2032,5,2,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,4,3,2,Lake,No,143,0,Villa,119540
+Punta Gorda Isles,New_York,US,1190,5,2,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,5,2,2,Sea,No,410,2,House,423034
+Waterbury,New_York,US,1900,1,3,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,3,1,2,City,Yes,101,0,House,77010
+Mira Mesa,Los_Angeles,US,3589,1,2,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,3,1,3,Country,No,190,2,Apartment,423344
+Rolla,Chicago,US,3354,2,1,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,0,4,3,City,Yes,313,2,Apartment,473822
+Bon Air,New_York,US,2321,2,4,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,1,3,3,Lake,Yes,491,3,Villa,333009
+Dumont,New_York,US,3801,4,2,3,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,2,1,1,Sea,Yes,220,1,Villa,210251
+Riverbank,Los_Angeles,US,2064,2,3,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,3,1,3,Sea,Yes,375,1,House,459340
+Bon Air,New_York,US,1732,4,5,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,1,4,2,Lake,Yes,312,0,House,204806
+Lakewood,New_York,US,3385,4,1,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,3,3,2,Sea,Yes,440,3,House,315161
+South Lawndale,Chicago,US,2890,1,1,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,4,1,3,Sea,Yes,375,2,Villa,230061
+Yonkers,New_York,US,1581,3,4,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,4,5,2,Ocean,Yes,207,1,House,376214
+Palm Valley,New_York,US,2414,5,4,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,2,4,3,Lake,No,220,3,House,97637
+Nutley,New_York,US,2606,3,4,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,2,1,2,Country,No,167,2,House,222210
+Mira Mesa,Los_Angeles,US,3090,5,1,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,3,5,2,Sea,Yes,480,1,House,141558
+Crystal Lake,Chicago,US,2153,5,1,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,1,2,1,Ocean,No,328,2,House,301108
+Lower West Side,Chicago,US,3968,4,5,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,5,0,1,Lake,Yes,294,0,Villa,326905
+Bothell West,Los_Angeles,US,2751,4,2,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,2,0,2,Sea,No,351,2,Villa,482929
+Canton,Detroit,US,1740,5,2,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,3,5,1,City,No,274,0,Villa,420954
+Ada,Chicago,US,3274,1,4,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,3,1,2,Country,Yes,262,2,Apartment,66648
+Jackson,Chicago,US,3232,3,3,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,1,5,1,Lake,Yes,209,3,Villa,441302
+Searcy,Chicago,US,2430,5,5,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,2,2,1,Sea,No,248,0,House,203568
+Taunton,New_York,US,3886,3,1,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,1,4,3,Sea,Yes,108,2,Apartment,491080
+Greenville,Chicago,US,1280,4,5,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,2,1,2,Sea,Yes,493,2,Apartment,70050
+Gainesville,New_York,US,3616,4,4,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,3,4,1,Lake,Yes,466,1,Apartment,362360
+Utica,New_York,US,1466,2,1,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,2,3,2,City,No,276,1,Villa,212293
+Camarillo,Los_Angeles,US,1842,2,2,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,3,2,1,City,No,191,0,Apartment,409582
+Greenfield,Indiana,US,3002,2,4,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,3,1,1,Ocean,Yes,256,1,Apartment,314466
+Crystal Lake,Chicago,US,1814,1,3,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,4,4,3,City,Yes,359,3,Villa,347354
+Brighton Beach,New_York,US,1112,1,4,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,1,3,1,City,Yes,113,0,House,301017
+Kendall,New_York,US,1197,1,4,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,1,5,3,Sea,Yes,475,1,House,349224
+Tupelo,Chicago,US,3065,1,2,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,4,3,2,Country,No,441,1,House,425359
+Troutdale,Los_Angeles,US,3707,2,4,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,3,5,3,Sea,No,362,1,Apartment,351805
+Harrisburg,New_York,US,1115,4,1,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,3,4,3,Ocean,No,199,0,Villa,324508
+New Canaan,New_York,US,3860,5,5,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,3,1,3,Country,Yes,324,2,House,301878
+North Tustin,Los_Angeles,US,1135,3,2,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,4,3,3,City,No,350,3,Villa,98241
+Grand Forks,Chicago,US,1907,3,3,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,5,1,2,Ocean,Yes,367,1,House,447146
+Leland,New_York,US,1872,2,4,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,4,4,3,Ocean,Yes,387,0,Apartment,382981
+Laguna Niguel,Los_Angeles,US,3904,1,3,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,5,5,1,Sea,Yes,405,2,House,203289
+Encinitas,Los_Angeles,US,2571,1,4,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",0,1,3,3,Ocean,No,232,1,Villa,61404
+Lower West Side,Chicago,US,1485,1,4,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,3,3,3,City,No,465,3,Villa,233130
+Far Rockaway,New_York,US,3796,5,2,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,1,0,1,Country,No,150,3,Apartment,480458
+Tyler,Chicago,US,1581,3,4,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,4,4,1,Country,No,137,3,House,366573
+Dumont,New_York,US,3119,3,3,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,3,5,3,Country,Yes,296,1,Apartment,434479
+Granger,Indiana,US,3413,3,4,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,5,0,3,Lake,Yes,419,3,Villa,479871
+Massapequa,New_York,US,1095,1,3,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,1,2,1,City,No,491,3,Villa,439384
+Palm Desert,Los_Angeles,US,1650,1,1,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,2,1,1,Lake,No,127,3,Apartment,157376
+Bryn Mawr-Skyway,Los_Angeles,US,2028,3,1,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,2,5,1,City,Yes,233,2,Apartment,282146
+Middle River,New_York,US,3328,4,1,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,4,4,3,Sea,Yes,132,0,Villa,395060
+Lower West Side,Chicago,US,1944,4,2,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,1,1,2,Sea,No,219,1,House,443098
+Keene,New_York,US,1215,4,4,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,2,3,2,Sea,Yes,316,0,Villa,496221
+Rutland,New_York,US,3007,5,4,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,2,0,2,City,No,207,1,Apartment,123071
+Malden,New_York,US,2603,3,3,3,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,4,0,1,Sea,No,221,3,Apartment,456509
+Searcy,Chicago,US,1176,1,5,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,4,4,3,City,No,245,0,Villa,499388
+Middle River,New_York,US,1591,4,2,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,4,4,2,Sea,Yes,456,2,Villa,156608
+Saratoga Springs,Denver,US,3779,4,2,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,0,5,1,Lake,Yes,147,0,Villa,229556
+Longview,Chicago,US,1710,4,2,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,3,1,3,City,Yes,190,1,Villa,156783
+Covington,New_York,US,2866,5,1,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,4,4,2,Country,Yes,476,3,Villa,61060
+Pleasant Prairie,Chicago,US,2644,3,4,3,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,1,4,2,City,Yes,296,3,Apartment,276280
+Saratoga Springs,Denver,US,3540,2,3,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,0,4,2,Country,No,298,2,Apartment,174173
+Norwalk,New_York,US,3155,2,3,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,3,3,2,Lake,No,195,2,House,58429
+Aurora,Denver,US,1302,4,1,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,3,3,1,Ocean,Yes,379,3,House,409269
+Peabody,New_York,US,1418,1,4,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,1,2,2,Ocean,Yes,302,3,House,189599
+Chillum,New_York,US,2459,5,2,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,0,2,1,Country,No,266,0,House,180774
+Granger,Indiana,US,2520,1,5,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,1,2,2,Country,Yes,276,0,Apartment,159370
+New City,Chicago,US,1003,3,1,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,5,3,1,Ocean,Yes,158,1,Apartment,404419
+Lino Lakes,Chicago,US,2631,5,4,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,2,3,1,Sea,No,246,3,House,441290
+Lutz,New_York,US,1685,2,5,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,3,4,1,Country,Yes,232,3,Villa,415527
+Dublin,New_York,US,3312,4,4,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,1,4,3,Ocean,No,377,1,Villa,482844
+Peabody,New_York,US,3760,2,4,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,0,5,2,Country,Yes,297,3,Apartment,151451
+West Chester,New_York,US,3484,1,1,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,5,2,2,Sea,No,140,2,Apartment,475062
+Palestine,Chicago,US,1145,1,2,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,4,5,3,Country,No,495,2,Apartment,336614
+Mechanicsville,New_York,US,3429,4,1,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,0,4,3,Lake,Yes,101,1,Apartment,290031
+Boston,New_York,US,1840,4,4,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,2,3,3,Country,Yes,365,3,Apartment,53968
+South Whittier,Los_Angeles,US,1276,2,1,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,4,3,2,Country,Yes,102,2,Apartment,176466
+Odessa,Chicago,US,1461,1,1,16,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,3,2,2,Lake,Yes,102,1,House,264494
+Bon Air,New_York,US,1553,1,2,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,4,1,1,Lake,Yes,397,0,House,164421
+Greenfield,Indiana,US,2514,2,3,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,1,4,3,City,No,418,1,Villa,102941
+Schererville,Chicago,US,1935,5,4,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,3,1,2,City,No,189,2,Villa,461572
+Hutchinson,Chicago,US,1610,5,5,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,2,5,1,Country,Yes,167,1,House,189825
+Fresno,Chicago,US,1611,2,3,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,1,1,3,Country,Yes,382,2,Villa,312598
+Nutley,New_York,US,2271,4,4,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,2,2,1,City,Yes,202,0,Apartment,155304
+Santa Maria,Los_Angeles,US,2411,1,4,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,3,4,2,Country,No,307,1,Apartment,432504
+Brighton Beach,New_York,US,1150,3,1,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,4,2,2,City,No,336,1,Apartment,442583
+Sun City Center,New_York,US,2212,5,2,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,2,4,2,Sea,No,449,2,Villa,318787
+Lino Lakes,Chicago,US,1485,4,5,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,3,2,2,Sea,No,181,1,House,75681
+Pahrump,Los_Angeles,US,1056,2,1,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,4,2,1,Ocean,No,455,2,Villa,254474
+Bothell,Los_Angeles,US,3386,2,5,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,4,4,3,Country,No,454,1,Apartment,178236
+Kahului,Honolulu,US,3212,3,3,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,0,2,1,City,Yes,304,1,Villa,284407
+Columbia Heights,Chicago,US,1771,1,1,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,1,2,1,Lake,No,452,2,Villa,236697
+Peabody,New_York,US,3213,1,1,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,3,1,1,Ocean,Yes,360,1,Apartment,246993
+Beaumont,Los_Angeles,US,2854,3,3,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,2,2,2,City,No,232,2,Villa,138106
+American Canyon,Los_Angeles,US,1362,4,4,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,3,1,2,City,No,426,0,Apartment,388910
+Lompoc,Los_Angeles,US,1968,3,2,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,0,3,3,Ocean,Yes,235,1,Apartment,225694
+West Des Moines,Chicago,US,1922,4,5,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,2,2,3,Ocean,No,339,0,Apartment,210767
+Columbia Heights,Chicago,US,2864,4,2,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,1,2,3,Lake,No,230,2,Apartment,75637
+Newburgh,New_York,US,3909,1,3,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,0,3,2,Lake,Yes,177,0,Villa,369138
+Schererville,Chicago,US,1278,4,1,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,1,1,3,Sea,No,340,3,Apartment,192612
+Lexington,New_York,US,2958,4,3,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,5,5,3,City,Yes,351,1,Villa,133396
+Hutchinson,Chicago,US,2464,4,5,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,0,2,2,Lake,Yes,212,3,Villa,455900
+Encinitas,Los_Angeles,US,3499,1,3,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,5,1,3,City,Yes,278,2,Apartment,438179
+Taunton,New_York,US,3425,2,1,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,0,2,3,Country,Yes,406,1,House,377989
+Ken Caryl,Denver,US,3264,3,5,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,2,4,1,City,Yes,412,1,House,324986
+Aurora,Denver,US,3904,5,3,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,0,5,1,City,Yes,182,1,House,431736
+Gates-North Gates,New_York,US,3521,5,2,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,3,3,3,Country,Yes,361,0,Apartment,497811
+Lutz,New_York,US,3813,4,1,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,1,4,1,Ocean,Yes,324,2,Villa,87239
+Columbia Heights,Chicago,US,2443,1,2,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,5,2,3,Lake,Yes,400,0,House,405849
+Scarsdale,New_York,US,2233,4,5,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,1,2,1,Country,No,456,0,Apartment,417927
+Clermont,New_York,US,1850,2,5,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,4,4,1,Country,Yes,304,3,House,238846
+Lompoc,Los_Angeles,US,3704,1,4,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,2,2,3,Sea,Yes,185,0,Villa,60072
+Hutchinson,Chicago,US,1100,2,4,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,2,4,1,Ocean,Yes,468,3,Villa,245360
+Sterling,New_York,US,1942,1,3,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,2,2,3,Country,No,285,2,House,365234
+Kent,Los_Angeles,US,1671,4,3,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,5,4,2,Country,No,471,2,House,197394
+Evergreen Park,Chicago,US,3793,1,5,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,3,1,2,Lake,Yes,289,1,Apartment,339426
+Lakewood,New_York,US,1326,4,5,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,3,4,3,City,No,281,0,Villa,182633
+Waverly,Detroit,US,3025,4,2,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,0,3,2,Country,No,125,3,Apartment,211333
+Westchester,Chicago,US,3817,3,3,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,1,3,3,Sea,No,161,2,Villa,346403
+Keene,New_York,US,3613,1,4,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,1,1,2,Country,Yes,341,3,House,141840
+Kearns,Denver,US,2234,3,2,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,4,1,2,Lake,Yes,495,0,Apartment,328820
+Bridgeport,New_York,US,2529,2,5,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,1,2,2,Lake,Yes,286,1,Apartment,391287
+Lebanon,New_York,US,3122,4,3,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,4,4,1,Country,Yes,247,2,Villa,350936
+Kahului,Honolulu,US,1861,3,5,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,5,2,1,City,No,373,2,House,134229
+Scarsdale,New_York,US,1640,4,5,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,2,1,2,Country,Yes,223,3,Villa,135866
+Columbia Heights,Chicago,US,1037,3,2,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,2,3,3,Country,Yes,407,1,Villa,489230
+Far Rockaway,New_York,US,2116,4,5,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,2,4,2,Lake,Yes,415,1,Villa,183554
+Lutz,New_York,US,1362,1,2,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,2,2,1,Ocean,Yes,199,1,Apartment,438427
+Brentwood Estates,Chicago,US,1835,3,2,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,3,0,3,Sea,Yes,460,0,Apartment,177962
+Peabody,New_York,US,1300,4,5,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,2,2,2,Lake,Yes,327,1,Villa,459551
+Taunton,New_York,US,1179,5,3,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,0,4,3,Ocean,Yes,274,3,Villa,125638
+Fitchburg,New_York,US,2562,4,2,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,4,0,3,Country,No,477,3,Villa,280187
+Leland,New_York,US,3632,5,3,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,4,1,1,Lake,Yes,218,0,Apartment,178029
+Grand Forks,Chicago,US,3672,4,3,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,4,0,2,City,Yes,385,1,Villa,216023
+Brunswick,New_York,US,2119,3,2,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,5,1,1,Country,No,429,1,Apartment,379108
+Gilbert,Phoenix,US,1626,1,3,3,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",0,3,4,1,Ocean,Yes,156,2,Apartment,286033
+Searcy,Chicago,US,3613,5,2,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,4,1,3,Lake,Yes,486,2,House,143003
+Port Huron,Detroit,US,3346,5,4,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,5,4,3,Ocean,Yes,335,0,Villa,188596
+Acworth,New_York,US,3235,5,3,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,4,4,3,Ocean,No,257,3,Villa,215542
+Harrisburg,New_York,US,2681,3,5,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,0,4,3,Ocean,Yes,185,2,Villa,125127
+Norwalk,New_York,US,2392,2,3,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,4,1,1,Ocean,No,131,0,Villa,241248
+Palestine,Chicago,US,3278,5,3,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,4,5,1,Lake,Yes,207,2,House,181297
+Granger,Indiana,US,3926,2,5,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,4,2,Ocean,Yes,165,1,Villa,275237
+Gilbert,Phoenix,US,1464,2,3,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,0,1,3,Country,Yes,290,3,Villa,120837
+Granger,Indiana,US,1462,5,5,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,3,3,2,Sea,Yes,403,0,House,327752
+Ada,Chicago,US,1517,2,2,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,1,4,2,Lake,Yes,310,3,House,345408
+Coralville,Chicago,US,2022,2,1,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,2,5,2,Sea,Yes,150,0,Apartment,329240
+Visitacion Valley,Los_Angeles,US,1793,4,3,16,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,3,1,2,Lake,No,145,3,Apartment,413980
+Scottsdale,Phoenix,US,1982,4,2,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,3,0,3,Ocean,No,239,0,Villa,453085
+Searcy,Chicago,US,2894,1,4,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,1,4,3,Ocean,No,495,2,House,425791
+Evergreen Park,Chicago,US,3049,1,5,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,3,3,1,Sea,No,136,2,House,210650
+Brentwood Estates,Chicago,US,3803,4,1,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,3,5,3,Ocean,Yes,370,2,Apartment,123825
+Gilbert,Phoenix,US,1567,4,2,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,2,5,1,Country,Yes,152,1,Villa,120433
+Lexington,New_York,US,2377,2,2,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,2,0,1,Lake,Yes,152,2,House,296627
+Palestine,Chicago,US,1207,4,2,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,5,3,Ocean,Yes,128,3,House,76970
+Visitacion Valley,Los_Angeles,US,2165,3,2,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,2,3,1,Ocean,No,296,0,Apartment,196024
+Bridgeport,New_York,US,2230,3,5,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,1,5,2,Country,Yes,363,3,Apartment,278861
+Opportunity,Los_Angeles,US,1193,5,5,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,1,4,2,City,Yes,330,1,House,354105
+Lexington,New_York,US,2691,1,4,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,4,2,1,Country,Yes,145,2,Villa,160439
+Santa Maria,Los_Angeles,US,3546,1,3,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,2,3,3,City,Yes,479,1,Villa,202010
+Waterbury,New_York,US,1876,4,2,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,3,1,3,City,Yes,214,0,Apartment,251609
+Thomasville,New_York,US,3578,4,1,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,3,3,2,Country,No,426,1,Villa,177869
+Scottsdale,Phoenix,US,2489,5,2,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,2,3,2,Ocean,Yes,153,2,Apartment,341575
+East Haven,New_York,US,2037,4,2,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,4,5,1,Ocean,Yes,338,1,Apartment,329875
+Front Royal,New_York,US,2455,3,4,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,1,3,3,Country,No,130,0,Apartment,228520
+Far Rockaway,New_York,US,1632,4,3,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,1,4,2,Sea,Yes,113,3,House,81366
+San Gabriel,Los_Angeles,US,3895,5,1,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,0,4,2,City,No,479,0,Villa,417409
+Clermont,New_York,US,2886,3,5,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,0,3,2,Ocean,Yes,383,3,House,177296
+Lebanon,New_York,US,1052,5,5,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,2,1,1,Ocean,No,291,2,Villa,94406
+Yonkers,New_York,US,3906,5,1,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,4,4,3,Ocean,No,198,3,Apartment,76784
+Grand Forks,Chicago,US,1310,2,1,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,1,4,3,Sea,No,331,2,House,363388
+Bryn Mawr-Skyway,Los_Angeles,US,1649,2,4,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,2,2,3,Sea,Yes,222,0,House,138164
+Fitchburg,New_York,US,3015,5,2,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,2,5,3,Ocean,Yes,275,3,Apartment,394099
+Lebanon,New_York,US,1208,4,3,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,2,2,1,City,No,459,2,House,51406
+Palm Valley,New_York,US,3131,4,1,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,5,0,2,City,No,128,2,House,82566
+Sterling,New_York,US,2145,1,3,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,0,3,2,City,Yes,208,1,Apartment,346771
+Iron River,Menominee,US,1458,3,4,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,1,2,2,City,No,474,1,House,382530
+Crystal Lake,Chicago,US,1955,4,3,16,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,0,3,2,Lake,Yes,300,0,Villa,50754
+Waterbury,New_York,US,3153,1,5,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,3,2,3,Country,No,312,1,Apartment,107037
+Gates-North Gates,New_York,US,3372,5,2,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,4,2,2,Sea,No,435,1,Apartment,344047
+Huntley,Chicago,US,1065,1,2,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,2,3,1,Country,Yes,150,1,Apartment,381223
+Lompoc,Los_Angeles,US,3057,3,5,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,1,2,1,Ocean,No,225,1,House,401948
+Coralville,Chicago,US,2810,1,1,3,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,1,5,1,Sea,Yes,245,0,Apartment,435760
+Bothell,Los_Angeles,US,3138,4,5,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,5,2,2,Ocean,No,312,2,Villa,233451
+Nampa,Boise,US,1060,5,3,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,4,4,3,Ocean,No,151,1,House,454347
+Lino Lakes,Chicago,US,3176,2,4,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,5,2,Country,No,183,3,Apartment,108201
+Mechanicsville,New_York,US,1566,2,5,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,1,4,3,Ocean,No,294,3,Apartment,241177
+Kearns,Denver,US,3152,1,3,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,2,3,2,Ocean,Yes,236,3,Apartment,472339
+Toledo,New_York,US,2047,3,2,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,4,0,3,Sea,Yes,392,2,House,247555
+Port Richmond,New_York,US,1457,5,3,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,2,0,2,Country,Yes,473,2,Villa,66073
+Lower West Side,Chicago,US,1341,4,2,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,1,1,1,Ocean,Yes,210,3,Villa,495389
+San Gabriel,Los_Angeles,US,3762,1,2,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,3,0,3,Sea,No,397,2,Apartment,426287
+Punta Gorda Isles,New_York,US,3906,3,2,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,3,3,2,Ocean,Yes,248,0,House,283908
+Bon Air,New_York,US,2879,5,2,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,5,4,3,Lake,No,391,1,Apartment,106853
+Rolla,Chicago,US,2679,4,1,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,0,5,2,Lake,No,105,3,House,140596
+Woodlawn,New_York,US,1506,4,4,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,2,0,1,Ocean,No,102,1,Villa,167783
+Kearns,Denver,US,1948,2,5,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,4,2,3,Ocean,Yes,485,3,Villa,270274
+Tupelo,Chicago,US,3051,1,1,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,0,0,2,Ocean,Yes,227,2,House,242192
+Evergreen Park,Chicago,US,2359,5,2,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,2,2,2,Lake,No,241,0,House,231929
+West Chester,New_York,US,2055,5,2,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,0,1,2,Ocean,No,102,0,Villa,490058
+Westchester,Chicago,US,1332,4,3,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,3,2,3,City,Yes,265,0,House,145657
+Santa Maria,Los_Angeles,US,3433,2,5,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,2,3,1,Sea,Yes,338,1,Apartment,300831
+Longview,Chicago,US,2450,4,1,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,4,1,1,Ocean,No,245,1,Apartment,146365
+Riverbank,Los_Angeles,US,1394,5,1,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,2,4,1,Lake,No,142,3,House,281509
+Martinsburg,New_York,US,1208,4,2,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,3,1,1,Sea,Yes,340,0,House,365687
+Columbia Heights,Chicago,US,3071,2,4,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,4,5,2,Lake,No,474,1,House,250989
+Crystal Lake,Chicago,US,3498,3,3,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,4,1,3,Sea,Yes,281,3,Apartment,247049
+Belle Glade,New_York,US,3253,3,4,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,1,3,2,Lake,Yes,189,1,House,113322
+Kaukauna,Chicago,US,3286,1,3,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,0,3,2,Ocean,Yes,422,1,House,391045
+Beaumont,Los_Angeles,US,2597,2,5,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,0,2,2,Sea,No,143,3,House,95163
+North Lauderdale,New_York,US,1556,3,3,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,2,2,2,Lake,No,455,2,Villa,136375
+East Haven,New_York,US,2076,3,3,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,2,1,3,Lake,No,238,2,House,108771
+Hutchinson,Chicago,US,1336,3,5,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,2,4,2,Country,No,198,1,Apartment,402231
+Nampa,Boise,US,2210,2,5,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,4,4,2,Country,No,494,3,Villa,382919
+Chillum,New_York,US,3810,5,1,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,2,2,1,Sea,Yes,312,2,Apartment,190408
+Waterbury,New_York,US,2485,5,1,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,2,4,1,Ocean,No,497,3,Apartment,149116
+New Canaan,New_York,US,2289,4,5,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,2,2,2,Country,Yes,260,0,House,428668
+Saratoga Springs,Denver,US,3863,1,2,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,1,5,2,Country,No,472,0,Villa,89655
+Lompoc,Los_Angeles,US,2904,5,4,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,4,2,1,Lake,No,273,0,Apartment,173305
+Mira Mesa,Los_Angeles,US,3316,5,1,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,2,1,2,Country,No,339,2,Apartment,489832
+Milledgeville,New_York,US,3020,2,1,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,2,2,3,Ocean,Yes,256,1,House,213442
+Pleasant Prairie,Chicago,US,2836,5,3,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,2,2,2,Ocean,Yes,495,0,House,132508
+Copperas Cove,Chicago,US,1400,4,5,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,4,3,3,Sea,No,188,3,House,405027
+Lino Lakes,Chicago,US,2622,1,4,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,4,5,3,Sea,Yes,405,2,Villa,95632
+Fairview Heights,Chicago,US,2829,5,1,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,5,4,2,Sea,Yes,131,0,Villa,113614
+Hutto,Chicago,US,2153,5,5,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,2,3,2,Sea,Yes,378,3,House,450439
+Laguna Niguel,Los_Angeles,US,3328,4,5,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,2,3,2,City,No,176,3,Villa,203342
+West Des Moines,Chicago,US,1707,1,4,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,3,2,2,Sea,No,211,3,House,81242
+Boston,New_York,US,2076,3,5,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,3,0,2,Sea,No,222,3,Apartment,194545
+Crystal Lake,Chicago,US,1861,4,4,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,2,4,2,Country,No,458,3,Villa,276859
+Bryn Mawr-Skyway,Los_Angeles,US,2968,1,1,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,5,1,3,Ocean,No,271,0,Villa,381340
+Nutley,New_York,US,3046,2,1,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,5,2,1,City,Yes,405,2,House,345562
+Cypress Hills,New_York,US,2949,3,5,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,3,2,1,Lake,Yes,218,1,House,489380
+Toledo,New_York,US,1291,2,4,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,4,4,2,Country,No,204,1,Apartment,451650
+Acworth,New_York,US,2134,3,2,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,0,3,3,Lake,Yes,192,3,Apartment,464728
+Porterville,Los_Angeles,US,1916,4,4,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,2,3,3,City,Yes,246,1,Apartment,423962
+Leland,New_York,US,3946,1,3,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,3,2,2,Sea,Yes,112,1,Villa,81323
+Bothell West,Los_Angeles,US,2714,1,2,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,3,3,2,Ocean,Yes,189,1,Villa,156308
+Scottsdale,Phoenix,US,1773,4,2,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,1,4,2,Ocean,Yes,110,2,House,176856
+Shreveport,Chicago,US,1681,1,1,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,2,2,1,Sea,Yes,244,2,Villa,425963
+Waterbury,New_York,US,3801,1,3,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,5,1,3,Country,No,374,1,Apartment,65415
+Fitchburg,New_York,US,2812,5,3,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,2,5,2,Lake,Yes,241,0,Villa,196499
+New City,Chicago,US,1129,3,2,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,4,1,3,Ocean,Yes,247,1,Apartment,277568
+Dumont,New_York,US,3585,4,5,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,0,0,1,Ocean,No,212,3,Villa,196395
+Hueytown,Chicago,US,2082,3,1,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,4,0,2,Sea,No,316,2,Apartment,75536
+Pahrump,Los_Angeles,US,3189,5,2,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,2,1,3,Country,Yes,196,0,Villa,64590
+Lower West Side,Chicago,US,1988,3,2,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,4,3,1,City,No,265,2,Villa,427568
+Cypress Hills,New_York,US,2312,4,3,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,4,1,2,Ocean,Yes,269,2,House,331303
+Troutdale,Los_Angeles,US,3901,4,3,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,3,4,2,Lake,Yes,498,2,Villa,471118
+Searcy,Chicago,US,2413,2,4,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,3,5,3,City,No,418,1,Villa,320353
+Muskogee,Chicago,US,2731,5,5,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,2,2,2,Sea,Yes,219,1,Villa,406437
+Yonkers,New_York,US,3201,3,3,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,4,2,2,Ocean,No,498,0,Apartment,377309
+Pekin,Chicago,US,1357,2,5,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,3,2,2,Country,Yes,499,1,Apartment,116509
+Leland,New_York,US,2054,4,4,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,1,3,2,Sea,Yes,141,2,Villa,166694
+Fresno,Chicago,US,1413,4,4,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,0,5,3,Lake,No,433,3,Villa,92567
+Ken Caryl,Denver,US,1782,2,4,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,5,2,3,Lake,No,307,2,Villa,480626
+South Lawndale,Chicago,US,1233,1,4,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,1,3,1,Sea,Yes,221,2,House,455515
+Middle River,New_York,US,2088,4,3,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,3,2,3,Lake,No,123,0,Apartment,161671
+Stockbridge,New_York,US,2190,4,1,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,3,0,2,City,No,487,1,Villa,370928
+Iron River,Menominee,US,3122,4,4,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,4,1,2,Lake,Yes,185,2,House,488721
+Nutley,New_York,US,1890,2,3,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,3,0,2,Ocean,No,421,2,Villa,358785
+Norco,Los_Angeles,US,3889,1,4,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,0,1,Ocean,Yes,390,2,Apartment,313403
+Massapequa,New_York,US,1263,4,2,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,5,3,1,City,No,171,3,Apartment,305124
+Gilbert,Phoenix,US,1122,4,1,3,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,0,2,2,Sea,Yes,479,3,Villa,470730
+Greenville,Chicago,US,1985,2,1,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,3,1,3,Ocean,Yes,350,2,Villa,200111
+South Whittier,Los_Angeles,US,1479,2,1,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,1,4,3,City,Yes,338,3,Apartment,413287
+Toledo,New_York,US,3272,5,1,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",0,0,2,3,Ocean,No,152,1,Villa,181189
+Sterling,New_York,US,2295,4,4,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,2,1,2,Lake,Yes,420,2,Apartment,298110
+Jackson,Chicago,US,2046,1,5,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,0,5,2,City,Yes,294,0,Villa,233225
+Palm Valley,New_York,US,1895,1,1,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,1,2,1,Sea,No,498,2,Apartment,431529
+Rosedale,New_York,US,1866,3,4,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,0,1,1,Ocean,Yes,280,3,House,112269
+Aurora,Denver,US,2364,5,1,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,4,4,3,Sea,Yes,280,3,Villa,278610
+San Juan,Chicago,US,2804,2,2,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,4,1,2,Ocean,No,449,1,Apartment,265485
+Rolla,Chicago,US,2301,4,3,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,3,1,2,City,No,183,2,Villa,92118
+Harrisburg,New_York,US,2384,2,5,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,4,2,Lake,Yes,329,1,House,203234
+Murray,Chicago,US,3313,1,2,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,1,1,2,Ocean,Yes,440,2,Villa,436290
+Ken Caryl,Denver,US,1716,5,1,16,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,2,5,1,Sea,Yes,309,0,Villa,148969
+Lexington,New_York,US,1877,2,5,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,3,4,1,Country,Yes,321,3,House,222575
+Brenham,Chicago,US,3727,5,4,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,5,1,3,City,Yes,477,1,House,84108
+Columbia Heights,Chicago,US,3350,2,4,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,1,2,1,Lake,No,433,1,Apartment,422893
+Nampa,Boise,US,2133,5,4,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,5,1,2,Lake,Yes,392,1,House,404342
+New City,Chicago,US,3254,1,1,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,0,5,1,City,No,267,0,Villa,261276
+East Haven,New_York,US,1142,2,3,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,5,3,2,Sea,Yes,144,0,Villa,268873
+Waterbury,New_York,US,3288,1,1,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,1,4,2,Country,No,290,1,Apartment,371514
+Huntley,Chicago,US,1765,4,4,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,2,4,2,City,No,444,3,House,240469
+Fairview Heights,Chicago,US,2199,4,3,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,1,3,2,Sea,No,378,0,House,384056
+Martinsburg,New_York,US,3248,4,5,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,2,3,1,Lake,Yes,492,0,House,480711
+Longview,Chicago,US,3189,1,3,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,1,5,2,Ocean,Yes,452,0,Apartment,122164
+Fairview Heights,Chicago,US,2876,3,2,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,5,5,2,Country,No,262,1,House,259393
+Laguna Niguel,Los_Angeles,US,1284,5,4,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,0,3,2,Sea,No,436,3,Apartment,157322
+West Chester,New_York,US,1624,3,1,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,4,0,1,City,Yes,434,2,Apartment,242678
+Utica,New_York,US,1171,1,1,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,1,0,3,Ocean,No,236,3,Apartment,343800
+Woodlawn,New_York,US,3856,4,2,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,3,1,City,Yes,130,2,Apartment,442855
+Iron River,Menominee,US,2044,4,4,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,3,1,2,Sea,Yes,282,2,House,414935
+Peabody,New_York,US,3284,2,2,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,2,4,1,Ocean,Yes,275,3,House,376100
+Iron River,Menominee,US,1870,4,4,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,5,3,3,Ocean,No,344,2,Villa,115656
+Visitacion Valley,Los_Angeles,US,1910,3,4,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,3,3,3,Country,Yes,387,0,Villa,206544
+Fresno,Chicago,US,3165,1,4,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,4,0,1,City,No,431,0,House,76369
+Odessa,Chicago,US,3021,2,5,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,0,0,1,Lake,Yes,213,0,House,243385
+Lexington,New_York,US,3630,4,5,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,5,4,3,City,No,269,0,Villa,293512
+Opportunity,Los_Angeles,US,2450,3,3,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,5,1,1,Ocean,No,371,2,House,242447
+Pleasant Prairie,Chicago,US,2642,1,2,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,1,3,City,Yes,158,1,Apartment,261796
+Acworth,New_York,US,1064,4,2,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,3,3,1,Ocean,No,359,1,Villa,154969
+Thomasville,New_York,US,1115,1,4,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,4,1,1,Ocean,Yes,146,1,Villa,299284
+Rosemount,Chicago,US,3192,3,1,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,5,1,2,City,Yes,427,3,Villa,488892
+Glendale,Los_Angeles,US,1321,4,5,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,1,2,3,City,Yes,224,0,House,404897
+Lutz,New_York,US,2428,4,2,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,3,2,1,Country,Yes,126,2,Villa,439785
+Deltona,New_York,US,3476,3,2,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,1,1,3,City,Yes,221,1,Villa,364421
+Collinwood,New_York,US,3424,5,2,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,2,0,1,Ocean,Yes,393,1,Apartment,248035
+Newburgh,New_York,US,3784,4,3,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,5,4,3,City,No,125,3,Apartment,495423
+Bon Air,New_York,US,2722,4,4,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,5,4,3,Lake,No,224,1,House,141387
+Sunnyside,Los_Angeles,US,2856,4,5,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,1,4,3,Lake,Yes,110,2,Apartment,121903
+Schererville,Chicago,US,1665,5,3,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,1,4,1,Country,Yes,422,3,House,77358
+Camarillo,Los_Angeles,US,1156,5,5,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,4,1,3,Lake,Yes,369,0,Villa,83922
+Nampa,Boise,US,1479,4,5,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,3,2,1,Country,Yes,251,1,Apartment,155338
+Palestine,Chicago,US,1220,2,2,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,1,4,1,Lake,No,378,3,Villa,184094
+Brenham,Chicago,US,1297,5,5,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,2,2,1,Sea,Yes,207,2,Villa,109873
+Aurora,Denver,US,3548,4,4,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,0,4,3,Country,No,302,3,Villa,152881
+Kent,Los_Angeles,US,2988,3,1,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,5,0,3,City,Yes,316,0,Villa,415068
+North Tustin,Los_Angeles,US,2657,2,3,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,4,3,1,Sea,Yes,214,3,Apartment,452855
+Gates-North Gates,New_York,US,1029,1,4,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,1,0,2,City,No,452,3,Villa,213436
+Shreveport,Chicago,US,1424,4,3,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,1,2,1,Lake,Yes,397,3,House,448498
+Pottstown,New_York,US,1707,4,5,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,1,4,3,Sea,Yes,302,2,Apartment,267531
+West Des Moines,Chicago,US,3239,4,3,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,4,4,3,Lake,Yes,409,0,Apartment,105914
+Sicklerville,New_York,US,2634,2,2,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,4,2,1,Country,Yes,292,1,Villa,309684
+Lexington,New_York,US,2331,5,5,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,2,3,2,Lake,Yes,151,3,Villa,362404
+Iron River,Menominee,US,2359,3,1,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,3,3,2,Ocean,Yes,227,3,Villa,369573
+Canton,Detroit,US,3278,1,3,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,2,1,2,Sea,Yes,445,3,House,388222
+Kaukauna,Chicago,US,2738,1,1,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,4,4,1,Sea,Yes,290,0,Apartment,245265
+New City,Chicago,US,3276,3,3,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,4,4,3,Country,No,362,1,House,229940
+Hueytown,Chicago,US,2675,3,4,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,4,2,1,Sea,No,331,2,Apartment,276331
+Morningside Heights,New_York,US,2949,4,5,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,0,1,3,Lake,Yes,241,0,Villa,94363
+Covington,New_York,US,2997,5,5,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,4,2,1,City,Yes,368,1,House,184595
+Dumont,New_York,US,1880,1,4,16,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,5,1,2,City,No,188,1,House,446369
+Jackson,Chicago,US,2053,3,2,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,3,1,3,Lake,No,447,2,Villa,324494
+Huntley,Chicago,US,1840,3,2,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,3,2,1,Lake,Yes,474,3,Apartment,447931
+Rosemount,Chicago,US,2394,5,2,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,1,5,3,Sea,Yes,357,3,Villa,311761
+Palm Valley,New_York,US,1937,2,2,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,4,2,1,Lake,No,422,1,House,286159
+Milledgeville,New_York,US,2189,1,1,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,2,1,1,Sea,Yes,360,2,House,220401
+Kahului,Honolulu,US,1820,1,2,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,3,1,1,Country,Yes,371,3,Apartment,375471
+Coralville,Chicago,US,1266,1,3,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,2,3,3,Ocean,No,261,3,Villa,219287
+Gainesville,New_York,US,2104,4,5,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,2,1,2,Lake,Yes,465,0,Apartment,114844
+Greenpoint,New_York,US,1861,4,2,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,1,1,1,City,No,154,0,Apartment,253693
+Norwalk,New_York,US,3811,3,1,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,4,1,2,Country,No,454,1,Apartment,81803
+Estelle,Chicago,US,1447,2,1,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,4,1,3,Sea,Yes,160,3,Apartment,456943
+Bon Air,New_York,US,2255,3,5,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",0,5,5,2,City,No,249,2,Villa,333392
+Scotch Plains,New_York,US,2720,4,2,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,1,1,1,Sea,No,235,2,Villa,354824
+Sterling,New_York,US,1911,5,3,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,0,2,3,Sea,No,436,2,House,117438
+Martinsburg,New_York,US,1981,3,2,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,0,3,2,Country,Yes,227,1,House,90774
+Aloha,Los_Angeles,US,3034,1,2,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,1,2,3,City,Yes,344,3,Apartment,335595
+Bothell West,Los_Angeles,US,1452,5,4,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,1,0,1,Sea,No,347,2,Villa,65119
+Clermont,New_York,US,1129,4,1,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,3,1,1,Ocean,No,137,1,House,477636
+Lower West Side,Chicago,US,2922,5,3,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,5,5,2,Country,Yes,381,1,Apartment,269898
+Far Rockaway,New_York,US,2453,5,4,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,3,2,3,Country,No,427,0,Apartment,294986
+Lutz,New_York,US,1975,1,2,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,2,4,2,Country,Yes,412,3,House,343294
+Sterling,New_York,US,1017,5,5,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,3,1,3,Country,Yes,241,1,Apartment,234002
+Palm Desert,Los_Angeles,US,1820,2,2,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,1,2,2,Ocean,No,301,2,House,219321
+Columbia Heights,Chicago,US,3994,4,3,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,0,4,1,Lake,Yes,237,0,House,74592
+Fairview Heights,Chicago,US,3307,5,2,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,2,4,2,Sea,Yes,369,0,Apartment,400030
+Peabody,New_York,US,3102,5,2,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,2,4,2,Lake,Yes,181,3,Apartment,66613
+Venice,New_York,US,2263,5,3,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,1,0,2,City,Yes,236,3,House,156936
+Kaukauna,Chicago,US,3524,2,5,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,3,2,3,Sea,Yes,238,0,Apartment,225104
+Kaukauna,Chicago,US,1852,4,5,16,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,3,4,1,Ocean,Yes,221,0,Apartment,57727
+Brunswick,New_York,US,1105,2,5,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,2,5,2,Sea,Yes,214,1,Villa,426891
+Shreveport,Chicago,US,2414,3,1,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,2,4,2,Sea,Yes,369,2,Apartment,481045
+South Whittier,Los_Angeles,US,2120,2,3,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,5,3,2,City,Yes,215,0,Villa,69909
+Huntley,Chicago,US,3707,3,3,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,0,3,1,City,No,456,3,Apartment,471025
+Taunton,New_York,US,1822,5,2,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,4,1,1,Sea,Yes,424,0,Villa,280807
+Evergreen Park,Chicago,US,2655,1,3,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,3,3,3,Lake,No,432,2,Apartment,255831
+Port Huron,Detroit,US,2902,5,5,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,1,2,3,Country,No,156,1,Apartment,478987
+Pekin,Chicago,US,3992,1,4,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,1,3,3,Country,No,189,1,Apartment,467249
+North Lauderdale,New_York,US,2411,2,5,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,1,1,2,Sea,No,147,2,Villa,454170
+Martinsburg,New_York,US,2813,4,1,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,3,4,3,Lake,Yes,144,1,Apartment,188649
+Sunnyside,Los_Angeles,US,3976,1,2,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,3,4,3,City,Yes,476,3,Villa,81545
+Pekin,Chicago,US,3957,5,3,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,4,1,2,Sea,Yes,364,0,Villa,109390
+Waverly,Detroit,US,2404,5,4,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,0,4,2,Sea,No,470,1,Apartment,60759
+Troutdale,Los_Angeles,US,3344,4,2,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,1,5,1,Country,No,476,2,Villa,427904
+West Chester,New_York,US,3031,4,5,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,4,3,2,City,No,179,0,Villa,229231
+Crystal Lake,Chicago,US,3008,3,4,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,3,1,2,Country,No,301,2,House,310184
+Martinsburg,New_York,US,3592,2,1,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,5,2,2,Sea,No,181,3,Villa,110055
+Glendale,Los_Angeles,US,1632,2,2,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,3,2,1,City,No,393,2,Villa,186636
+Palm Desert,Los_Angeles,US,1288,2,5,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,4,1,2,Ocean,No,240,2,Villa,317730
+Vestavia Hills,Chicago,US,1798,2,4,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,4,1,3,Country,Yes,274,1,Villa,338566
+Brenham,Chicago,US,2833,2,3,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,5,5,3,Sea,No,291,2,House,183699
+Belle Glade,New_York,US,3221,1,1,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,1,1,1,Lake,Yes,188,3,House,88632
+Granger,Indiana,US,2179,5,4,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,2,2,2,Lake,Yes,432,3,Apartment,412643
+Mechanicsville,New_York,US,3741,5,1,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,0,4,3,Country,No,424,0,Villa,203139
+Visitacion Valley,Los_Angeles,US,2025,4,5,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,1,2,2,Country,Yes,129,0,Apartment,263046
+Davis,Los_Angeles,US,3878,2,5,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,1,1,3,Ocean,Yes,111,0,House,465260
+Bridgeport,New_York,US,3200,5,1,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,3,3,2,Ocean,Yes,249,0,Apartment,218421
+Pekin,Chicago,US,3002,4,1,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,3,4,1,Lake,No,387,0,Villa,117127
+Saratoga Springs,Denver,US,1620,5,5,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,1,1,2,Country,No,113,0,Apartment,423816
+Scarsdale,New_York,US,3497,4,5,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,1,5,2,Sea,No,153,2,House,314852
+Fort Washington,New_York,US,3886,3,4,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,4,2,2,Lake,No,313,0,Apartment,160229
+Middle River,New_York,US,2059,3,4,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,3,2,3,Sea,No,221,1,Apartment,401397
+Huntley,Chicago,US,3034,2,5,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,5,1,3,City,Yes,377,0,Apartment,301045
+Grand Forks,Chicago,US,1841,3,4,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,3,2,2,Sea,Yes,116,1,Apartment,475118
+Kensington,New_York,US,1815,5,3,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,4,2,1,Country,No,249,3,Villa,144988
+South Lawndale,Chicago,US,3636,3,4,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,4,3,2,Country,No,191,3,House,367367
+Fresno,Chicago,US,1869,2,3,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,2,5,2,Lake,Yes,156,3,House,494803
+Jackson,Chicago,US,1289,5,4,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,2,4,3,Sea,Yes,437,1,Villa,264466
+Lino Lakes,Chicago,US,2578,2,1,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,4,4,2,Lake,No,310,3,Villa,387576
+Hueytown,Chicago,US,3809,3,4,16,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,0,4,2,City,Yes,464,0,Villa,214453
+Toledo,New_York,US,3284,2,2,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,1,2,3,Country,No,498,1,House,354733
+Searcy,Chicago,US,2867,1,1,16,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,2,1,1,Sea,No,264,0,House,189090
+Chillum,New_York,US,1446,2,5,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,4,3,1,Ocean,No,340,0,Apartment,174488
+East Haven,New_York,US,2527,3,3,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,3,3,3,Lake,No,273,2,House,146506
+Jackson,Chicago,US,3994,4,4,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,0,5,3,City,No,344,2,Apartment,488584
+Lino Lakes,Chicago,US,3960,4,3,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,0,2,2,City,No,208,2,House,159727
+Aurora,Denver,US,1088,1,1,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,1,3,2,Sea,Yes,348,3,House,275389
+Acworth,New_York,US,3949,2,5,16,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,2,1,3,City,No,294,1,House,341109
+Murray,Chicago,US,2396,4,1,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,4,2,2,Sea,No,221,3,Apartment,219446
+Keene,New_York,US,2647,2,2,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,1,3,2,Ocean,Yes,223,3,House,290579
+Coralville,Chicago,US,2767,2,3,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,5,4,3,Country,No,460,2,House,192063
+Claremont,Los_Angeles,US,1466,4,2,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,2,1,2,Country,Yes,307,1,Villa,119435
+Vestavia Hills,Chicago,US,2119,3,2,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,4,4,2,City,No,213,0,House,105105
+Abilene,Chicago,US,2613,5,4,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,1,4,2,Country,Yes,418,3,Villa,466945
+Sun City Center,New_York,US,2265,1,1,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,4,4,1,Lake,No,211,0,Apartment,240749
+West Chester,New_York,US,1445,2,1,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,4,4,3,Ocean,No,325,2,Villa,458196
+Far Rockaway,New_York,US,1596,2,1,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,2,2,1,Country,No,335,0,House,352246
+Bridgeport,New_York,US,3936,3,4,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,3,1,2,Ocean,Yes,494,0,Villa,215394
+Lompoc,Los_Angeles,US,3535,4,1,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,3,5,3,Sea,Yes,393,3,House,425468
+Lompoc,Los_Angeles,US,3841,4,3,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,3,5,2,Sea,Yes,146,0,House,362334
+Scotch Plains,New_York,US,1517,4,2,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,5,4,1,Country,No,155,3,Apartment,389034
+Coralville,Chicago,US,1146,1,3,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,1,1,2,Country,Yes,240,1,House,316743
+Pekin,Chicago,US,1874,5,1,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,5,4,3,Country,No,364,3,Apartment,330084
+Toledo,New_York,US,1160,3,2,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,2,3,1,City,No,193,2,House,269613
+Aurora,Denver,US,1349,2,2,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,2,1,3,Lake,Yes,348,1,Villa,353992
+Visitacion Valley,Los_Angeles,US,1314,4,5,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,0,1,2,City,Yes,499,1,Apartment,192802
+Kent,Los_Angeles,US,3701,2,4,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,2,5,3,Lake,No,171,0,House,357624
+Scotch Plains,New_York,US,2184,5,4,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,1,5,3,Country,No,194,1,Apartment,382178
+Ada,Chicago,US,3399,2,2,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,2,4,2,Lake,No,175,0,Villa,450919
+Ada,Chicago,US,2159,5,5,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,5,3,1,City,Yes,251,3,Apartment,222134
+Fresno,Chicago,US,3972,5,2,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",0,2,2,1,Country,No,467,2,House,424786
+Keene,New_York,US,2503,5,4,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,1,1,3,Ocean,No,222,1,Villa,333087
+Gilbert,Phoenix,US,2264,4,4,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,5,2,1,Lake,Yes,345,2,Villa,112377
+Lakewood,New_York,US,3741,2,4,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,4,4,2,Sea,No,498,2,House,333315
+Coralville,Chicago,US,2449,4,5,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,1,0,3,City,No,281,0,Apartment,368378
+Odessa,Chicago,US,3469,5,4,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,2,1,1,Ocean,Yes,231,2,House,221044
+Dumont,New_York,US,1000,4,5,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,5,1,2,Ocean,Yes,180,1,House,266116
+Claremont,Los_Angeles,US,1486,3,4,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,3,5,2,Lake,Yes,313,2,Apartment,272840
+Palestine,Chicago,US,1009,2,1,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,1,3,2,Lake,No,105,2,House,399375
+Nutley,New_York,US,1913,4,1,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,2,3,2,City,No,179,3,Villa,199473
+Dumont,New_York,US,1793,3,2,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,1,2,1,City,Yes,129,2,Villa,332073
+Hutchinson,Chicago,US,2039,1,5,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,0,0,2,City,Yes,344,2,House,391330
+Glendale,Los_Angeles,US,2532,4,1,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,5,2,3,Lake,Yes,120,3,House,211587
+Lower West Side,Chicago,US,2359,4,4,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,3,5,2,Country,Yes,142,1,Apartment,139545
+Columbia Heights,Chicago,US,1620,3,1,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,4,3,3,Lake,No,128,3,House,414447
+Bothell West,Los_Angeles,US,3671,5,1,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,1,5,1,Ocean,Yes,461,3,House,160944
+Fitchburg,New_York,US,3788,1,3,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,5,1,3,City,No,403,2,Apartment,260605
+Brunswick,New_York,US,1094,5,4,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,2,1,2,Sea,No,199,1,Villa,212627
+Dumont,New_York,US,1850,4,5,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,0,1,2,Ocean,No,162,0,Villa,476837
+Scotch Plains,New_York,US,2246,2,1,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,2,0,3,Country,No,183,1,Villa,389416
+Tyler,Chicago,US,1671,4,1,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,3,5,2,City,No,404,3,House,484866
+South Lawndale,Chicago,US,1887,1,5,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,4,2,2,Lake,Yes,263,0,House,304761
+Nutley,New_York,US,2166,4,4,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,1,0,1,City,Yes,246,2,Villa,233651
+Sun City Center,New_York,US,1976,2,4,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,3,4,1,City,Yes,209,1,House,359633
+Peabody,New_York,US,2154,4,2,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,4,3,3,City,Yes,134,0,House,282431
+Schererville,Chicago,US,3658,1,3,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,1,1,3,City,No,366,0,House,492230
+Utica,New_York,US,2213,1,1,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,1,3,3,Sea,No,101,3,Villa,231659
+Lower West Side,Chicago,US,3364,3,2,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,5,3,1,Sea,Yes,340,0,Apartment,298117
+Sicklerville,New_York,US,3953,4,3,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,2,4,3,Ocean,Yes,149,2,Villa,341356
+Scotch Plains,New_York,US,3459,5,5,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,1,3,3,City,No,144,1,Villa,403091
+Canton,Detroit,US,2012,3,5,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,5,4,2,Sea,Yes,403,0,House,220589
+Fitchburg,New_York,US,3641,2,1,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,5,1,3,City,Yes,238,0,Villa,120607
+Keene,New_York,US,2774,1,1,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,4,3,1,Ocean,Yes,318,0,Villa,80456
+Mira Mesa,Los_Angeles,US,2825,3,5,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,2,0,2,Sea,No,442,1,Villa,288489
+New City,Chicago,US,3394,2,4,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,1,5,1,Lake,No,226,0,Villa,274593
+Grand Forks,Chicago,US,3062,2,2,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,3,1,2,Lake,Yes,471,1,Apartment,457767
+Martinsburg,New_York,US,3314,1,1,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,1,2,1,Lake,Yes,269,0,Apartment,216052
+Waterbury,New_York,US,1047,1,2,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,0,2,1,Lake,Yes,128,1,House,148230
+Massapequa,New_York,US,3549,3,5,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,2,4,1,Country,No,343,3,Villa,301938
+Brentwood Estates,Chicago,US,3304,5,4,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,4,4,1,Lake,Yes,425,3,Villa,392868
+Keizer,Los_Angeles,US,2634,1,2,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,3,2,1,Sea,No,123,3,House,322454
+Newburgh,New_York,US,2072,5,1,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,2,2,3,City,Yes,460,3,Villa,54839
+Longview,Chicago,US,2000,3,3,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,5,3,3,Country,Yes,131,1,House,459371
+Kent,Los_Angeles,US,2730,5,4,16,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,5,4,1,Sea,No,171,3,Villa,235088
+Troutdale,Los_Angeles,US,3889,2,1,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,2,4,3,Ocean,No,252,0,Apartment,381814
+Porterville,Los_Angeles,US,2771,1,3,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,3,1,1,Ocean,Yes,161,1,Apartment,183649
+Woodbridge,New_York,US,1197,1,3,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,3,3,2,Sea,No,109,3,Apartment,254091
+New Canaan,New_York,US,3079,2,3,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,4,1,1,Sea,No,195,0,House,91513
+Redding,Los_Angeles,US,3544,3,5,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,5,0,2,Lake,No,276,0,House,201842
+Indio,Los_Angeles,US,3968,3,3,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,3,2,2,Country,No,217,3,House,123722
+Greenfield,Indiana,US,2856,4,4,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",0,3,1,3,Lake,Yes,102,1,Villa,125357
+Norwalk,New_York,US,1836,1,5,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",0,2,4,2,City,No,469,3,Apartment,272459
+East Haven,New_York,US,2483,2,1,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,1,2,2,Country,Yes,428,0,Villa,173454
+East Haven,New_York,US,2931,5,1,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,5,5,2,Country,Yes,345,1,House,474088
+Schererville,Chicago,US,2697,5,5,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,1,2,2,Sea,Yes,346,3,House,410616
+Claremont,Los_Angeles,US,3066,2,3,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,4,3,2,Lake,No,446,0,Apartment,115391
+Searcy,Chicago,US,1429,5,4,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,3,4,1,Sea,Yes,366,1,Villa,228527
+Davis,Los_Angeles,US,3077,4,5,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,5,1,1,City,No,264,3,Apartment,213655
+Redding,Los_Angeles,US,3889,1,2,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,3,4,2,Lake,No,276,2,House,391369
+Lino Lakes,Chicago,US,1632,5,1,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,2,3,3,Lake,No,290,0,Apartment,106894
+Gates-North Gates,New_York,US,3673,3,2,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,1,4,1,Ocean,No,496,2,Apartment,165032
+Lexington,New_York,US,3535,2,2,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,2,0,3,Country,Yes,205,0,House,458289
+Hueytown,Chicago,US,1819,5,2,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,3,1,3,City,Yes,193,0,Apartment,248185
+Hutchinson,Chicago,US,1815,1,3,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,2,1,2,Country,No,306,1,House,337451
+Redding,Los_Angeles,US,1449,3,5,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,3,1,1,Sea,No,384,0,Villa,478689
+Mechanicsville,New_York,US,2146,4,3,3,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,4,2,3,Lake,Yes,494,2,Villa,344844
+Pekin,Chicago,US,2105,2,5,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,4,3,3,Ocean,Yes,421,3,Apartment,180115
+Jackson,Chicago,US,1712,2,4,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,1,2,1,Lake,No,310,3,House,479946
+West Chester,New_York,US,3255,2,3,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,0,1,3,Lake,No,407,0,Villa,189190
+Sterling,New_York,US,1981,4,5,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,0,2,3,Country,No,287,0,Villa,408911
+Pekin,Chicago,US,2514,2,4,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,2,2,2,Sea,Yes,296,2,House,357731
+Belle Glade,New_York,US,1826,4,1,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,4,0,3,City,Yes,362,3,Villa,467930
+East Haven,New_York,US,2235,1,5,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,1,2,3,Country,Yes,167,0,Apartment,352824
+Kent,Los_Angeles,US,2689,5,2,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,4,4,3,Country,Yes,463,3,House,205390
+Milledgeville,New_York,US,3752,2,2,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,1,5,3,Lake,Yes,162,0,Apartment,174367
+Malden,New_York,US,1623,4,3,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,2,1,1,Ocean,No,323,3,Apartment,217343
+Searcy,Chicago,US,3449,2,2,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,0,2,3,Country,Yes,226,0,Apartment,173497
+Lower West Side,Chicago,US,1934,2,1,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,2,2,2,Sea,Yes,123,0,Apartment,104911
+North Lauderdale,New_York,US,3175,2,5,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,3,3,2,Sea,Yes,331,2,Apartment,412163
+Murray,Chicago,US,3871,5,1,3,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,3,3,2,Lake,No,219,3,House,382259
+Bon Air,New_York,US,3122,3,1,16,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,5,5,2,Ocean,Yes,240,3,Apartment,277014
+Norco,Los_Angeles,US,1074,5,1,16,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,1,5,3,Ocean,Yes,133,2,Apartment,127657
+Hueytown,Chicago,US,2359,5,4,3,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,4,2,Country,Yes,426,1,Villa,161458
+Kent,Los_Angeles,US,3426,4,2,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,4,5,2,Ocean,Yes,366,1,Apartment,480741
+West Des Moines,Chicago,US,2886,5,5,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,2,3,3,Lake,Yes,418,1,Villa,63331
+Fresno,Chicago,US,3086,1,3,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,2,5,1,Lake,No,242,0,House,78822
+Opportunity,Los_Angeles,US,3942,3,4,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,3,5,3,City,Yes,319,3,Apartment,272683
+American Canyon,Los_Angeles,US,3340,5,4,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,1,2,1,Lake,No,318,1,Apartment,129345
+Canton,Detroit,US,1098,5,4,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,2,5,1,City,No,303,2,House,263622
+Massapequa,New_York,US,2698,3,5,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,3,0,1,Sea,No,412,2,Apartment,116576
+Hueytown,Chicago,US,3640,4,2,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,3,5,3,City,No,348,3,House,166352
+Rosedale,New_York,US,1870,3,2,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,2,4,1,City,Yes,377,0,Villa,264204
+Beaumont,Los_Angeles,US,1121,2,5,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,4,1,3,Sea,No,456,2,Villa,336269
+Jersey City,New_York,US,3811,3,1,8,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,3,3,1,Sea,No,327,1,Apartment,391931
+Lower West Side,Chicago,US,1852,1,5,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,4,5,1,City,No,333,3,Apartment,376543
+Far Rockaway,New_York,US,2428,3,1,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,3,5,2,City,No,305,3,Villa,127417
+Claremont,Los_Angeles,US,1295,2,3,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,1,4,2,Lake,Yes,338,2,Apartment,156856
+Keene,New_York,US,1255,3,3,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,2,3,1,Ocean,Yes,311,2,Apartment,338824
+Laguna Niguel,Los_Angeles,US,1942,4,2,16,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,4,3,2,Country,Yes,125,2,House,486048
+Grand Forks,Chicago,US,3178,5,2,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,3,3,3,Country,Yes,453,1,Apartment,342146
+Columbia Heights,Chicago,US,1222,2,3,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,2,4,1,City,No,209,0,Villa,144752
+Dumont,New_York,US,2676,5,5,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,3,4,2,Ocean,Yes,241,0,Villa,331696
+New City,Chicago,US,1518,5,1,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,0,1,2,Sea,Yes,256,2,House,105571
+Santa Maria,Los_Angeles,US,1270,1,4,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,5,2,Lake,Yes,100,1,House,225347
+Venice,New_York,US,2759,3,4,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,2,2,2,Country,No,263,3,House,375913
+Pekin,Chicago,US,1815,4,4,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,5,1,2,Lake,No,156,2,Villa,221946
+Aloha,Los_Angeles,US,1478,1,3,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,2,3,3,Lake,Yes,168,1,Apartment,300019
+Carlsbad,Denver,US,2417,5,1,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,1,2,1,Lake,No,355,3,House,199594
+Fresno,Chicago,US,2979,3,3,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,2,5,3,Country,No,369,1,Villa,450251
+Dumont,New_York,US,2657,5,1,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",0,3,2,3,City,No,252,1,House,374994
+Palm Valley,New_York,US,2170,3,1,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,4,4,3,Lake,No,262,2,Apartment,445078
+Belle Glade,New_York,US,3213,4,1,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,2,3,2,City,No,219,2,Apartment,185492
+Harrisburg,New_York,US,3705,1,5,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,1,0,2,Ocean,Yes,216,1,Apartment,61500
+Palestine,Chicago,US,1280,2,1,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,4,0,1,City,No,113,2,House,118706
+Schererville,Chicago,US,1898,4,2,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,0,2,1,City,Yes,104,3,Apartment,426599
+Boston,New_York,US,1717,2,4,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,4,2,3,Lake,Yes,206,2,House,304961
+Visitacion Valley,Los_Angeles,US,3235,2,5,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,4,1,1,Lake,Yes,308,3,Apartment,149347
+Brunswick,New_York,US,3321,2,2,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,0,4,2,Lake,No,366,3,Villa,117896
+Lower West Side,Chicago,US,3853,4,2,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,2,4,1,City,No,415,2,Apartment,100671
+North Lauderdale,New_York,US,2430,4,4,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,4,0,1,City,No,497,1,Villa,312856
+Leland,New_York,US,2658,3,4,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,0,3,3,Lake,No,299,0,House,102769
+Middletown,New_York,US,3389,1,1,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,4,3,3,City,Yes,281,1,Apartment,284970
+Granger,Indiana,US,2117,4,5,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,2,2,3,Ocean,Yes,278,2,Apartment,161398
+Kensington,New_York,US,1481,5,4,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,5,0,1,City,No,203,3,Apartment,233024
+Saratoga Springs,Denver,US,3921,1,2,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,1,5,2,Lake,Yes,364,1,House,277759
+Copperas Cove,Chicago,US,1011,2,2,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,4,1,1,Lake,No,422,1,Apartment,478340
+Stockbridge,New_York,US,3973,2,2,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,4,5,1,Country,No,335,1,House,275454
+Chillum,New_York,US,3921,5,2,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",0,2,2,3,Sea,Yes,426,2,House,379468
+Saratoga Springs,Denver,US,1684,4,5,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,0,1,2,Sea,Yes,236,2,Villa,273430
+Belle Glade,New_York,US,3602,5,5,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,0,0,2,Country,No,331,1,House,456023
+Dublin,New_York,US,3650,3,2,16,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,5,2,2,Sea,No,224,1,House,204720
+Lompoc,Los_Angeles,US,2535,4,5,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,4,3,3,City,No,452,2,House,446343
+Laguna Niguel,Los_Angeles,US,3073,1,5,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,0,1,3,Country,Yes,159,1,House,349671
+Kendall,New_York,US,1812,3,4,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,0,4,1,Ocean,No,113,0,Apartment,437613
+Muskogee,Chicago,US,2220,4,2,10,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,0,1,1,Sea,Yes,210,2,Villa,277063
+Kendall,New_York,US,1877,1,3,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",0,0,2,2,City,Yes,395,0,House,98422
+San Gabriel,Los_Angeles,US,1908,2,1,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",0,3,1,3,City,No,265,3,Apartment,271567
+North Lauderdale,New_York,US,1792,1,2,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",0,1,4,2,Ocean,No,119,1,House,454428
+Covington,New_York,US,2631,1,5,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,2,4,2,City,No,439,1,Apartment,466721
+San Juan,Chicago,US,3212,1,1,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,3,2,1,Lake,No,240,2,Apartment,69821
+Utica,New_York,US,1523,1,3,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,2,2,1,Lake,No,322,3,House,312097
+Bothell,Los_Angeles,US,2231,2,3,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",0,2,4,3,City,Yes,294,3,Villa,232047
+Glendale,Los_Angeles,US,2390,5,1,27,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",0,4,1,3,Lake,Yes,391,1,Villa,350523
+Pekin,Chicago,US,2997,5,1,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,1,1,3,Country,Yes,464,1,Apartment,359549
+Brentwood Estates,Chicago,US,2485,3,2,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,0,5,2,Lake,No,286,3,Apartment,86873
+Palm Desert,Los_Angeles,US,2493,2,1,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,0,2,3,Lake,Yes,349,0,Apartment,359734
+Massapequa,New_York,US,2025,2,3,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",4,2,4,2,Sea,No,424,0,Apartment,398799
+Greenville,Chicago,US,1580,2,2,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,1,4,2,Ocean,No,421,2,Apartment,101240
+Newburgh,New_York,US,2295,2,5,17,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,3,3,3,City,Yes,220,1,Apartment,320376
+Taunton,New_York,US,1772,2,2,11,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,1,3,2,Country,No,335,3,Villa,70896
+Saratoga Springs,Denver,US,3153,4,1,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,4,2,1,Sea,Yes,131,0,Apartment,443409
+Shreveport,Chicago,US,2659,2,2,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,3,3,3,Lake,Yes,235,1,Villa,101745
+Rutland,New_York,US,1258,5,2,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,1,1,2,Lake,No,489,3,Apartment,369270
+Gates-North Gates,New_York,US,3938,2,2,22,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,1,3,2,Country,No,242,2,Apartment,457187
+Rosemount,Chicago,US,3897,5,4,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,2,3,1,Sea,No,213,2,House,152886
+Vestavia Hills,Chicago,US,1464,2,2,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,2,1,Lake,Yes,288,1,Apartment,486458
+Pottstown,New_York,US,3439,4,5,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,4,1,2,City,Yes,429,0,House,497337
+Jersey City,New_York,US,2989,4,3,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,4,5,2,City,No,353,3,Apartment,252252
+Bothell,Los_Angeles,US,2950,2,1,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,5,1,3,Lake,Yes,124,0,Villa,113330
+Kensington,New_York,US,3641,3,3,20,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,5,3,2,City,No,290,1,House,142460
+Norco,Los_Angeles,US,3627,2,4,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,2,2,2,Sea,No,260,2,House,300909
+Lino Lakes,Chicago,US,1015,4,1,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,3,1,3,Ocean,Yes,327,2,Apartment,241286
+North Lauderdale,New_York,US,1327,3,4,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,3,1,3,Country,No,164,1,Apartment,120956
+Abilene,Chicago,US,3107,3,5,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",5,3,5,1,Country,Yes,213,3,House,114184
+Jackson,Chicago,US,1773,1,2,21,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,3,3,3,Country,Yes,324,2,House,230841
+New Canaan,New_York,US,3389,2,5,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,1,4,3,Lake,No,471,2,Apartment,190430
+Sicklerville,New_York,US,1794,2,5,9,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,3,3,1,Ocean,No,184,3,Villa,156309
+Redding,Los_Angeles,US,3650,3,2,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,0,4,2,Country,Yes,300,1,House,102712
+Shreveport,Chicago,US,2175,2,4,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,1,0,3,Lake,Yes,283,1,House,210186
+Thomasville,New_York,US,1408,1,2,3,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,1,4,2,Ocean,Yes,467,3,Apartment,473721
+Nutley,New_York,US,3044,5,3,1,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,2,1,2,Ocean,Yes,206,2,House,384213
+Nampa,Boise,US,1035,4,4,3,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,5,0,2,Ocean,Yes,466,1,Villa,67362
+Venice,New_York,US,2986,3,3,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,2,2,1,Sea,Yes,373,0,Villa,462332
+Laguna Niguel,Los_Angeles,US,1411,2,4,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",2,0,2,2,City,Yes,468,2,Villa,407998
+Redding,Los_Angeles,US,3700,3,4,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",1,1,2,3,Ocean,No,141,3,House,312798
+Palm Desert,Los_Angeles,US,3788,1,1,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,2,1,3,Country,No,389,2,Villa,375263
+Claremont,Los_Angeles,US,1846,1,3,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,1,1,3,Lake,Yes,315,0,Villa,204489
+Abilene,Chicago,US,1154,1,1,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",4,3,1,1,Lake,No,286,1,House,109530
+Far Rockaway,New_York,US,3961,5,2,30,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,3,1,1,Sea,No,429,3,House,80362
+North Tustin,Los_Angeles,US,3958,5,3,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,4,5,2,Lake,No,462,0,Villa,50668
+Fort Washington,New_York,US,1978,2,3,5,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",1,4,2,1,Lake,Yes,129,1,Apartment,455385
+Hutto,Chicago,US,3370,2,3,25,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,5,3,3,Ocean,No,352,1,Apartment,215744
+Evergreen Park,Chicago,US,1048,5,3,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",3,3,4,2,City,Yes,285,1,Apartment,293049
+Lompoc,Los_Angeles,US,3856,1,2,7,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,1,3,1,Ocean,No,321,0,House,254375
+Sunnyside,Los_Angeles,US,1304,4,4,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,3,2,3,Sea,No,230,2,Villa,150648
+Fort Washington,New_York,US,3581,1,3,4,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",0,4,2,3,Ocean,No,363,3,Villa,306774
+Greenpoint,New_York,US,2244,1,5,6,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,3,2,3,City,No,323,2,Villa,202113
+Evergreen Park,Chicago,US,2229,5,2,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,0,2,2,Sea,No,102,0,Villa,242380
+Abilene,Chicago,US,1850,4,5,12,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,1,4,2,City,No,397,2,Villa,53615
+Bon Air,New_York,US,2370,4,1,29,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",1,0,5,1,Ocean,Yes,102,0,Apartment,371121
+Tyler,Chicago,US,1268,4,5,24,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",5,4,0,2,Lake,No,205,3,Villa,192486
+Acworth,New_York,US,2170,1,3,19,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,4,2,1,City,Yes,388,1,Villa,458997
+Greenfield,Indiana,US,3132,3,4,14,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,4,0,1,Country,Yes,152,3,Villa,297598
+Crystal Lake,Chicago,US,2042,2,2,26,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",2,0,4,3,Sea,No,216,0,Villa,361765
+Kahului,Honolulu,US,3757,4,4,23,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",3,2,1,3,City,No,320,2,Villa,493833
+Sunnyside,Los_Angeles,US,3488,5,4,15,"['Swimming pool', 'Gym', 'Parking, Engery_Rating A']",5,5,4,3,Country,Yes,391,3,House,162115
+Pahrump,Los_Angeles,US,3090,1,4,18,"['Swimming pool', 'Gym', 'Parking, Engery_Rating C']",2,2,0,2,Lake,No,294,0,Apartment,444926
+Brenham,Chicago,US,3373,5,4,2,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,2,2,2,Country,No,215,1,House,299123
+Vestavia Hills,Chicago,US,3685,1,5,28,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",3,4,0,2,Sea,Yes,133,2,House,445833
+Brenham,Chicago,US,3929,3,5,13,"['Swimming pool', 'Gym', 'Parking, Engery_Rating B']",4,3,0,2,Sea,Yes,424,0,House,95063
